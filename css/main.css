@@ -3537,7 +3537,127 @@ body.mobile-nav-active #mobile-nav-toggle {
                End Blog Details  Page style
 ################
 */
-.event-card{
+.event-card1{
   padding: 10px;
   margin-top: 20px;
+}
+
+/*team card stying*/
+.event-card {
+  -webkit-box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  border-radius: 5px;
+  margin: 0 auto 20px;
+}
+
+.card.hovercard{
+  border: 0px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+
+}
+.card.hovercard .cardheader {
+  background:#2F5BE7;
+  background-size: cover;
+  height: 130px;
+  border: 0;
+  border-radius: 8px 8px 0 0;
+}
+
+.card.hovercard .avatar {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: auto;
+  margin-bottom: -50px;
+}
+
+.card.hovercard .avatar img {
+  width: 100px;
+  height: 100px;
+  max-width: 100px;
+  max-height: 100px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  
+}
+/*different border colors for team avators*/
+#bcol{
+  border: 2px solid rgba(47, 91, 231, 0.5);
+}
+#ycol{
+  border: 2px solid rgba(255, 255, 0, 0.5);
+}
+#rcol{
+  border: 2px solid rgba(255, 0, 0, 0.5);
+}
+/*end of border colors*/
+
+.card.hovercard .info {
+  padding: 4px 8px 2px;
+  text-align: center;
+
+}
+
+.card.hovercard .info .title h5 {
+  margin-top: -30px;
+  margin-left: 60px;
+  font-size: 18px;
+  line-height: 1;
+  color: #04091e;
+}
+.card.hovercard .info .title p {
+  color: #4A274F;
+  margin-left: 100px;
+}
+
+.card.hovercard .info .title p {
+  border-radius: 25px;
+}
+.card.hovercard .info .desc {
+  overflow: hidden;
+  font-size: 12px;
+  line-height: 20px;
+  color: #D7D7D7;
+  text-overflow: ellipsis;
+}
+.card.hovercard .bottom{
+  padding: 0 5px;
+  margin-top: -20px;
+  margin-bottom: 30px;
+  margin-left: 120px;
+  margin-right: auto;
+}
+.card.hovercard .bottom ul li a i{
+  color: #04091e;
+  font-size: 16px;
+  margin: 0;
+}
+/*end team card stying*/
+
+.social-list__inline {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-list__inline li {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.social-list__inline li {
+  margin-right: 15px;
+}
+
+.social-list__inline li:last-of-type {
+  margin: 0;
+}
+
+.social-list__inline li a {
+  color: red;
+  font-size: 22px;
+  margin-left: 8px;
 }
