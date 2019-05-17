@@ -48,6 +48,7 @@
   color: #777777;
   font-weight: 300;
 }
+body, html { overflow-x:hidden; }
 
 body {
   color: #777777;
