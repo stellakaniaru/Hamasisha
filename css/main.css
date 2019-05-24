@@ -3676,3 +3676,24 @@ body.mobile-nav-active #mobile-nav-toggle {
    transform: translate3d(-50%, -50%, 0);
 }
 /*end header styling*/
+
+.projH{
+  text-align: center;
+}
+.histogram {
+ display: inline-block;
+  padding: 30px;
+  margin: 100px;
+}
+
+.project-card{
+  width: 22rem;
+  margin: 0 auto 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card{
+  float: none;
+  border-radius: 8px;
+  
+}
