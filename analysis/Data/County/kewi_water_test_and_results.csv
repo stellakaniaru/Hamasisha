@@ -1,0 +1,184 @@
+SAMPLE_NO	DATE	TYPE_OF_H2O	COUNTY	TYPE_OF_ANALYSIS	PH	ALKALINITY_Mg/L	CONDUCTIVITY?S/cm	Total_Dissolved_Solids	COLOUR	OBJECTID
+672	12/20/2011	Effluent	Machakos	Effluent	7.6					0
+684	1/25/2012	Borehole 	Nairobi	PH/Nitirites/Fluoride/Iron/Manganese	7.78		433	3		1
+685	1/11/2012	Effluent	Machakos				21300	15		2
+686	1/11/2012	Effluent	Machakos	Effluent			18840	125		3
+687	1/30/2012	Rain	Kitui	Full Chemical Analysis/Bacteriological Analysis	6.4	8				4
+688	1/30/2012	Rain	Kitui	Full Chemical Analysis/Bacteriological Analysis	5.1	6				5
+689	1/30/2012	Rain	Kitui	Full Chemical Analysis	4.6	6				6
+690	12/20/2011	Borehole	Kajiado	Full Chemical Analysis	7.98	138	840	1		7
+691	1/12/2012	Borehole	Nakuru	Full Chemical Analysis	9.7	230	833	3		8
+695	2/15/2012	Effluent	Machakos	Effluent	7.16	1300	29680	18401	45	9
+696	2/15/2012	Effluent	Machakos	Effluent	7.2	1500	18560	11507	16	10
+697	2/14/2012	Borehole	Embu	Full Chemical Analysis	8.7					11
+698	2/14/2012		Embu	Full Chemical Analysis	8.9		114		3	12
+699	2/14/2012		Embu	Full Chemical Analysis	7.6		1050		16	13
+700	1/27/2012	Borehole	Nakuru	Full Chemical Analysis	8.3	230	944		2	14
+701	2/19/2012	Borehole	Machakos	Full Chemical Analysis	8.95	202	1670		3	15
+702	2/27/2012	Borehole 	Nairobi	Full Chemical Analysis/Bacteriological Analysis	8.9	138	405		2.5	16
+703	2/27/2012		Nairobi	Full Chemical Analysis/Bacteriological Analysis	7.15	22	95		2	17
+704	2/27/2012		Nairobi	Full Chemical Analysis/Bacteriological Analysis	6.98	28	90		2	18
+705	2/27/2012	Borehole	Nairobi	Full Chemical Analysis/Bacteriological Analysis	7.8	112	393		2.5	19
+707	3/1/2012	Borehole	Mogadishu	Full Chemical Analysis	7.78	236	2790	1729.8	2	20
+708	3/3/2012	River 	Central	Full Chemical Analysis	8	98	325	201.5	1	21
+709	3/5/2012	Borehole	Lokichoggio	Full Chemical Analysis	7.08	256	757	469	2	22
+710	3/12/2012	Tap + Borehole	Meru	Full Chemical Analysis/Bacteriological Analysis	8.5	170	493	306	2	23
+711	3/12/2012	Domestic	Meru	Full Chemical Analysis/Bacteriological Analysis	8.04	68	104	64.5	3	24
+712	3/12/2012	Waste 	Meru	Waste Water 	7.7	570	1184	734	15	25
+714	3/14/2012	Raw Effluent	Machakos	BOD & COD	7.9		15340	9511		26
+715	3/14/2012	Final Effluent	Machakos	BOD & COD	8.12		99	61.4	75	27
+719	3/22/2012	Borehole	Kisii	Full Chemical Analysis	7.04	128	293	181.66	4	28
+720	3/22/2012	Borehole	Nyamira	Full Chemical Analysis	6.4	84	203	125.86	3	29
+721	3/22/2012	Borehole	Nyamira	Full Chemical Analysis	5.9	96	146	90.52	5	30
+722	3/26/2012	Borehole	Taita Taveta	Full Chemical Analysis	6.6	192	310		2	31
+723	3/26/2012	Spring	Taita Taveta	Full Chemical Analysis	8.01	194	604		1	32
+724	3/27/2012	Spring	Kajiado	Full Chemical Analysis	7.59	74	342		2	33
+725	3/27/2012	Spring	Kajiado	Full Chemical Analysis	6.3	48	393	244	2	34
+726	3/27/2012	Borehole	Mogadishu Somalia	Full Chemical Analysis	7.3	198	1225	756	1	35
+727	3/28/2012	Shallow Well	Moshi Tanzania	Full Chemical Analysis	7.13	216	637	395	2.5	36
+730	4/11/2012	Borehole	Northern Bahr-el Ghazal  [Southern Sudan]	Full Chemical Analysis	5.89	14	171		2.5	37
+731	4/11/2012	Borehole	Kiambu	Full Chemical Analysis	6.35	92	716		2.5	38
+732	4/11/2012	Spring		Full Chemical Analysis	8.22	398	2260	1401	2.5	39
+733	4/18/2012	Borehole	Kajiado	Full Chemical Analysis	8.01		1163		3	40
+735	4/23/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	7.49	230	829	514	2	41
+736	4/24/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	8.32	6	14	9	2.5	42
+737	4/24/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	8.21	2	15	9.2	2.5	43
+738	4/24/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	7.11	22	101	63	2	44
+739	4/24/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	8.39	130	413	256	2.5	45
+740	4/19/2012	Raw Effluent	Machakos	Effluent	7.71	110	15.85	9827	60	46
+741	4/19/2012	Final Effluent	Machakos	Effluent	7.95	480	18.85	11687	42	47
+745	5/14/2012	Borehole	Turkana	Full Chemical Analysis	6.83					48
+746	5/15/2012	Borehole	Nairobi		8.29	34.6				49
+747	5/17/2012	Borehole	Siaya	Full Chemical Analysis	6.8					50
+748	5/17/2012	Borehole	Siaya	Full Chemical Analysis	6.76					51
+749	5/17/2012	Borehole		Full Chemical Analysis	6.74		477	296	2.5	52
+750	5/17/2012	Borehole	Nairobi	Full Chemical Analysis	7.58		855	530	2.5	53
+751	5/18/2012	Borehole	Bungoma	Full Chemical Analysis	5.58	56	176	109.12	4.5	54
+752	5/21/2012	Borehole	Kitui	Full Chemical Analysis	7.67		1696	1051.52		55
+757	5/21/2012	Effluent	Machakos	Effluent	9.9		15540	9634.8		56
+758	5/21/2012	Final Effluent	Machakos	Effluent	7.93		24440	15152.8		57
+760	5/29/2012	Borehole	Nairobi	Full Chemical Analysis	8.4	5	14	6.68	1	58
+762	6/5/2012	Effluent	Kiambu	Full Chemical Analysis/Bacteriological Analysis/Effluent	7.68	100	717	4445.4	10	59
+763	6/5/2012	Effluent	Kiambu	Full Chemical Analysis/Bacteriological Analysis/Effluent	7.73	278	8410	5214.2	2.5	60
+764	6/5/2012	Effluent	Kiambu	Full Chemical Analysis/Bacteriological Analysis/Effluent	6.77	180	3370	2089.4	2.5	61
+767	6/7/2012		Machakos	Full Chemical Analysis	6.87	52	136.5	84.63	2.5	62
+768	6/7/2012		Machakos	Full Chemical Analysis	6.76	50	186.7	115.8	0	63
+769	6/7/2012		Machakos	Full Chemical Analysis	6.8	54	174.5	108.19	2.5	64
+770	6/14/2012	Borehole	Kiambu	Full Chemical Analysis & Bacteriological Analysis	5.88	50	109	67.58	0	65
+771	6/14/2012	Borehole	Kiambu	Full Chemical Analysis & Bacteriological Analysis	5.82	30	108	66.96	0	66
+772	6/14/2012	Borehole	Kiambu	Full Chemical Analysis & Bacteriological Analysis	6.39	30	110	68.2	2.5	67
+773	15/6/2012	Raw Effluent	Machakos	Effluent			10970	702.08		68
+774	15/6/2012	Final Effluent	Machakos	Effluent			16540	1058.56		69
+775	25/6/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	6.6	150	540	345.6	5	70
+776	27/6/2012	Dam (Rain)	Kajiado	Full Chemical Analysis/Residual Chlorine	4.63	16	193	123.52	2.5	71
+777	27/6/2012	Borehole	Baringo	Full Chemical Analysis	8.33	254	600	384	2.5	72
+778	29/6/2012	Borehole		Full Chemical Analysis	6.43	88	232	148.48	0	73
+779	29/6/2012	Piped water		Full Chemical Analysis	6.25	144	343	212.66	2.5	74
+780	2/7/2012	River 	Kajiado	Full Chemical Analysis & Bacteriological Analysis	6.41	96	459	284.58	2.5	75
+781	2/7/2012	River 	Kajiado	Full Chemical Analysis & Bacteriological Analysis	6.48	106	469	290.78	0	76
+786	12/7/2012	Effluent	Machakos	Effluent	8.58	140	427	264.74	60	77
+787	12/7/2012	Final Effluent	Machakos	Effluent	8.04		18700	11594	7.5	78
+788	19/7/2012	Borehole	Narok	Full Chemical Analysis	8.23	240	1350	837		79
+789	19/7/2012	Borehole	Kiambu	Full Chemical Analysis	6.38	40	790	490	2.5	80
+790	24/7/2012	EFfluent	Kiambu	Effluent	7.29	60	263	163	2.5	81
+791	24/7/2012	Effluent	Kiambu	Effluent	7.8	90	212	131	5	82
+792	25/7/2012	Well	Somalia	Full Chemical Analysis	7.883	350	10200	6324	1	83
+793	25/7/2012	Raw Effluent	Machakos	Effluent	10.207	440	12520	7762	75	84
+794	25/7/2012	Final Effluent	Machakos	Effluent	8.157		11040	6844	50	85
+801	30/7/2012	Borehole	Homabay	Full Chemical Analysis	8.5	1336	3410	21142	75	86
+802	30/7/2012	Borehole	Makueni	Full Chemical Analysis	7.8	104	2310	1432.2	6	87
+805	16/8/2012	Borehole	Baringo	Full Chemical Analysis	8.74	324	634	393	2.5	88
+806	16/8/2012	Borehole	Mwingi	Full Chemical Analysis	6.6	150	340	210.8	7.5	89
+818	13/9/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	8.5	264	944	585.3	3	90
+819	13/9/2012	Effluent	Nairobi	Effluent	7.6	182	1270	787.4	15	91
+820	21/9/2012	Borehole	Kajiado	Full Chemical Analysis	8.25	244	34000	21080	80	92
+821A	6/9/2012	Effluent	Machakos	Effluent			56400	34968	75	93
+822	25/9/2012	Borehole	Kiambu	Full Chemical Analysis	6.8	64	194	120	2	94
+823	28/9/2012	Borehole	Kajiado	Full Chemical Analysis & Bacteriological Analysis	8.3	40	96	59.8	1	95
+826	11/9/2012	Tap	Kitui	Full Chemical Analysis & Bacteriological Analysis	7.5	42	223	138.3	3	96
+827	3/10/2012	Raw Effluent	Machakos	Effluent	9.2	13000	20196	12521.5	95	97
+828	3/10/2012	Final Effluent	Machakos	Effluent	7.6	10400	19823	12290	60	98
+829	12/10/2012	Effluent	Kiambu	Effluent	6.51	154	965	598.3	12	99
+830	12/10/2012	Effluent	Kiambu	Full Chemical Analysis & Bacteriological Analysis	6.29	112	491	304.42	7	100
+831	12/10/2012	Effluent	Kiambu	Full Chemical Analysis & Bacteriological Analysis	6.26	82	341	211.42	4	101
+832	16/10/2012	Borehole	Machakos	Full Chemical Analysis	6.1	50	920	570.4	3	102
+833	19/10/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	7.37	98	247	153.14	2.5	103
+834	17/10/2012	Raw Effluent	Machakos	Effluent	8.36	2600	35300	21886	75	104
+835	17/10/2012	Final Effluent	Machakos	Effluent	7.87	1800	5824	3610	50	105
+836	22/10/2012		Somalia	Full Chemical Analysis	7.34	210	28100	17422	2.5	106
+837	22/10/2012	Well	Somalia	Full Chemical Analysis	7.8	354	9600	5952	7.5	107
+838	18/10/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	9.1	224	432	267	2.5	108
+842	30/10/2012	Borehole	Kirinyaga	Full Chemical Analysis & Bacteriological Analysis	6.86	42	120	74.4	2.5	109
+843	18/10/2012	Borehole	Kiambu	Full Chemical Analysis	8.17	344	903	559.9	5	110
+844	3/11/2012	Borehole	Laikipia	Full Chemical Analysis & Bacteriological Analysis	7.4	554	1650	1023	7.5	111
+847	8/11/2012	Borehole		Full Chemical Analysis	6.7	530	2050	1271	7.5	112
+848	15/11/2012	Borehole	Nairobi	Full Chemical Analysis & Bacteriological Analysis	8.3	216	491	304.4	2.5	113
+849	21/11/2012	Borehole	Kiambu	Full Chemical Analysis & Bacteriological Analysis	5.64	50	104	64.48	2.5	114
+850	21/11/2012	Borehole	Kiambu	Full Chemical Analysis & Bacteriological Analysis	5.65	48	96	59.52	2.5	115
+851	21/11/2012	Borehole	Kiambu	Full Chemical Analysis & Bacteriological Analysis	5.63	42	98	60.76	2.5	116
+853	29/11/2012	Final Effluent	Nairobi	Effluent & Bacteriological Analysis	7.13		562		2.5	117
+859	26/11/2012	Borehole	Turkana	Full Chemical Analysis	7.12	112	13420	8320	7.5	118
+860	26/11/2012	Borehole	Turkana	Full Chemical Analysis	7.64	108	3050	1891	2.5	119
+863	2/12/2012	Shallow Well/Borehole	Siaya	Full Chemical Analysis & Bacteriological Analysis	7.86		1291	800.42	5	120
+864	12/6/2012	Effluent (raw)	Machakos	Effluent	6.86	2400	18800	11656	50	121
+865	12/6/2012	Final Effluent	Machakos	Effluent	8.21	3600	29200	18104	1.5	122
+866	12/17/2012	Effluent (raw)	Machakos	Effluent	8.02	3000	17123	10616	55	123
+867	12/17/2012	Final Effluent	Machakos	Effluent	8.19	5800	32091	19896	35	124
+864	12/6/2012	Effluent (raw)	Machakos	Effluent	6.86	2400	11656	18800	50	125
+865	12/6/2012	Final Effluent	Machakos	Effluent	8.21	3600	18104	29200	1.5	126
+866	12/17/2012	Effluent (raw)	Machakos	Effluent	8.02	3000	10616	17123	55	127
+867	12/17/2012	Final Effluent	Machakos	Effluent	8.19	5800	19896	32091	35	128
+868	1/11/2013	Effluent 	Nairobi	Effluent	7.79	38600	18704	30168	7.5	129
+869	1/11/2013	Effluent (raw)	Machakos	Effluent	8.55	10400	4713	7603	75	130
+870	1/29/2013	Domestic	Kitui	Full Chemical Analysis	7.88	686	1438.4	2320	2.5	131
+871	1/30/2013	Domestic		Full Chemical Analysis	7.58	168	3876	6253	2.5	132
+872	2/1/2013	Domestic	Machakos	Full Chemical Analysis/Bacteriological Analysis	8.72	438	670.2	1081	2.5	133
+873	2/1/2013	Borehole	Marsabit	Full Chemical Analysis	9.29	216	1506.6	2430	5	134
+874	2/1/2013	Borehole	Marsabit	Full Chemical Analysis	8.3	610	1173.6	1893	5	135
+875	2/1/2013	Pan	Marsabit	Full Chemical Analysis	7.73	122	99.8	161	55	136
+876	2/1/2013	Dam	Marsabit	Full Chemical Analysis	7.92	128	94.3	152	7.5	137
+877	2/1/2013	Borehole	Marsabit	Full Chemical Analysis	8.44	632	655.96	1058	2.5	138
+878	2/1/2013	Shallow well	Marsabit	Full Chemical Analysis	7.73	818	1229.5	1983	5	139
+879	2/1/2013	Shallow well	Marsabit	Full Chemical Analysis	8.39	376	3710.1	5984	2.5	140
+880	2/1/2013	Borehole	Marsabit	Full Chemical Analysis	7.5	48	267.8	432	2.5	141
+881	2/1/2013	Shallow well	Marsabit	Full Chemical Analysis	7.86	154	5978.6	9643	2.5	142
+882	2/1/2013	Borehole 1	Machakos	Full Chemical Analysis/Bacteriological Analysis	8.47	594	1682.1	2713	2.5	143
+883	2/1/2013	Borehole 2	Machakos	Full Chemical Analysis/Bacteriological Analysis	8.13	508	2429.2	3918	2.5	144
+884	2/1/2013	Borehole 3	Machakos	Full Chemical Analysis/Bacteriological Analysis	8.23	566	1881.1	3034	2.5	145
+885	2/6/2013	Observation well	Mogadishu	Full Chemical Analysis	7.1	390	2008.8	3240	2.5	146
+886	2/5/2013	Roof catchment	Kajiado	Full Chemical Analysis	6.24	16	267.2	431	2.5	147
+887	2/5/2013	Roof catchment	Kajiado	Full Chemical Analysis	6.1	14	70.06	113	2.5	148
+889	2/12/2013	Final Effluent	Machakos	Effluent	7.8	46	4545.2	7331	35	149
+890	2/12/2013	Raw Effluent	Machakos	Effluent	6.8	26	4844.7	7814	40	150
+891	2/27/2013	Borehole	Kajiado	Full Chemical Analysis/Bacteriological Analysis	7.26	124	76.9	124	2.5	151
+892	2/27/2013	Effluent	Nairobi	Effluent/Bacteriological Analysis	7.11	194	331.7	535	10	152
+893	2/27/2013	Domestic	Nairobi	Full Chemical Analysis/Bacteriological Analysis	7.34	64	84.32	136	2.5	153
+895	3/22/2013	Effluent (raw)	Machakos	Effluent	7.75	2400	4605	7428	35	154
+896	3/22/2013	Effluent (raw)	Machakos	Effluent	6.86	1400	4042	6520	30	155
+897	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	5.41	56	87.42	141	2.5	156
+898	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	7.46	216	225.06	363	2.5	157
+899	3/26/2013	Borehole 	Kiambu	Full Chemical Analysis/Bacteriological Analysis	5.6	48	95.48	154	2.5	158
+900	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	7.36	618	562.34	907	2.5	159
+901	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	7.51	270	277.14	447	2.5	160
+902	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	7.24	308	302.56	488	2.5	161
+903	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	7.68	122	114.08	184	2.5	162
+904	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	7.59	388	372	600	2.5	163
+905	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	7.04	556	518.94	837	2.5	164
+906	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	8.19	222	213.9	345	2.5	165
+907	3/26/2013	Borehole	Kiambu	Full Chemical Analysis/Bacteriological Analysis	7.34	174	174.84	282	2.5	166
+908	3/26/2013	Influent	Kiambu	Effluent	6.54	1100	905.82	1461	35	167
+909	3/26/2013	Effluent (before river)	Kiambu	Effluent	7.02	900	881.64	1422	25	168
+910	3/26/2013	Downstream	Kiambu	Effluent	6.55	500	82.46	133	10	169
+911	3/28/2013	Borehole	Mogadishu	Full Chemical Analysis	7.49	398	178.6	2880	2.5	170
+912	3/28/2013	Domestic (E1)	Kiambu	Full Chemical Analysis/Bacteriological Analysis	8.29	22	3.722	6	2.5	171
+913	3/28/2013	Domestic (E2)	Kiambu	Full Chemical Analysis/Bacteriological Analysis	5.8	48	52.7	85	2.5	172
+914	3/28/2013	Domestic (F3)	Kiambu	Full Chemical Analysis/Bacteriological Analysis	5.75	42	57.04	92	2.5	173
+915	3/28/2013	Effluent (L1)	Kiambu	Effluent/Bacteriological Analysis	6.87	300	1841.4	2970	10	174
+916	3/28/2013	Effluent (L2)	Kiambu	Effluent/Bacteriological Analysis	7.96	320	2170	3500	7.5	175
+917	3/28/2013	Effluent (L3)	Kiambu	Effluent/Bacteriological Analysis	7.19	244	2250.6	3630	5	176
+918	4/5/2013	Effluent	Tharaka Nithi	Effluent	5.63	600	575.4	929	30	177
+919	4/15/2013	Borehole	Kitui	Full Chemical Analysis	7.37	464	58.28	94	2.5	178
+920	4/17/2013	Effluent (raw)	Machakos	Effluent	6.75	7800		11350	35x2	179
+921	4/17/2013	Final Effluent	Machakos	Effluent	6.72	3600		14370	35	180
+926	5/14/2013	Effluent (raw)	Machakos	Effluent	7.1	1800	14012	22600	150	181
+927	5/14/2013	Final Effluent	Machakos	Effluent	8.3	5460	22444	30200	40	182
