@@ -1,0 +1,494 @@
+SAMPLE_NO,DATE,TYPE_OF_H2O,COUNTY,TYPE_OF_ANALYSIS,PH,ALKALINITY_Mg/L,CONDUCTIVITY?S/cm,Total_Dissolved_Solids,COLOUR,OBJECTID
+19T,,Tank,Machakos,Jar Test/Bacteriological Analysis/Full Chemical Analysis,7.9,1,136.4,220,25,396
+1484,18/6/2015,Effluent,Kajiado,Effluent,6.6,1.4,1001.92,1616,20,379
+176,13/6/16,Borehole,Kiambu,Full Chemical Analysis & Bacteriological Analysis,5.4,2,35.34,57,0,472
+89,4/6/2016,Tap,Murang'a,Full Chemical Analysis/Bacteriological Analysis,5.7,2,124,200,2.5,434
+737,4/24/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.21,2,15,9.2,2.5,43
+87,4/6/2016,Tap,Murang'a,Full Chemical Analysis/Bacteriological Analysis,6.3,4,148.8,240,2.5,432
+162,27/5/16,Borehole,Kajiado,Full Chemical Analysis,6.9,4,279.62,451,0,459
+1486,23/6/2015,Tap,Kisumu,Turbidity,7.25,4,26.04,42,0,380
+1378,31/3/2015,Dam,Kajiado,Full Chemical Analysis & Bacteriological Analysis,8.34,4,341,550,7.5,312
+146,28/4/16,Shallow well,Kiambu,Full Chemical Analysis/Bacteriological Analysis,5.8,5,538,900,0,454
+206,,Rain,Nakuru,,6,5,86.18,139,0,491
+207,,Rain,Nakuru,,6.3,5,112.84,182,0,492
+88,4/6/2016,Tap,Murang'a,Full Chemical Analysis/Bacteriological Analysis,6.5,5,161.2,260,2.5,433
+16,2/5/2016,Tap,Kajiado,Full Chemical Analysis,6.6,5,390.6,630,5,393
+86,4/6/2016,Tap,Murang'a,Full Chemical Analysis/Bacteriological Analysis,6.8,5,179.8,290,2.5,431
+153,5/9/2016,Borehole,Somalia,Full Chemical Analysis,7,5,589,950,0,457
+205,,Rain,Nakuru,,7.1,5,86.8,140,0,490
+204,,Rain,Nakuru,,8,5,62,100,0,489
+760,5/29/2012,Borehole,Nairobi,Full Chemical Analysis,8.4,5,14,6.68,1,58
+689,1/30/2012,Rain,Kitui,Full Chemical Analysis,4.6,6,,,,6
+688,1/30/2012,Rain,Kitui,Full Chemical Analysis/Bacteriological Analysis,5.1,6,,,,5
+736,4/24/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.32,6,14,9,2.5,42
+1449,2/6/2015,Shallow well,Meru,Full Chemical Analysis,6.36,8,53.94,87,2.5,358
+687,1/30/2012,Rain,Kitui,Full Chemical Analysis/Bacteriological Analysis,6.4,8,,,,4
+82,29/3/16,City Council,Nairobi,Full Chemical Analysis/Bacteriological Analysis,6.5,8,415.4,670,0,428
+145,28/4/16,Shallow well,Kiambu,Full Chemical Analysis/Bacteriological Analysis,6.2,9,502.2,810,0,453
+81,29/3/16,City Council,Nairobi,Full Chemical Analysis/Bacteriological Analysis,6.4,9,396.8,640,0,427
+122,,City Council,Nairobi,Full Chemical Analysis,6.7,9,390.6,630,0,443
+1379,31/3/2015,Dam,Kajiado,Full Chemical Analysis & Bacteriological Analysis,8.07,9,372,600,15,313
+39,3/1/2016,City Council,Nairobi,Full Chemical Analysis/Bacteriological Analysis,8.2,9,347.2,560,0,413
+990,8/20/2013,Tap,Nairobi,Full Chemical Analysis,5.72,10,47.12,76,2.5,215
+167,31/5/16,Tap,Garissa,Full Chemical Analysis & Bacteriological Analysis,7,10,631.16,1018,2.5,464
+1368,6/3/2015,Borehole,Nairobi,Phenoptholeum/Methyl Orange/Free Ammonia/Carbonates & Non Carbonates/CO2,,10,,,,309
+1466,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,10,,,,361
+84,30/3/16,Borehole,Nairobi,Turbidity,,10,,,,430
+973,7/4/2013,Borehole,Nairobi,Full Chemical Analysis,7.82,10.4,,252,2.5,207
+93,4/8/2016,Borehole,Kiambu,Full Chemical Analysis,5.7,11,539.4,870,0,438
+180,4/12/2016,Borehole,Nairobi,Full Chemical Analysis,5.8,12,942.4,1520,7.5,476
+37,24/2/16,Dam,Nyeri,Full Chemical Analysis/Bacteriological Analysis,6.7,12,483.6,780,0,411
+144,27/4/16,Final Effluent,Kiambu,Effluent,6.7,12,762.6,1230,5,452
+1108,4/17/2014,Tap,Nairobi,Full Chemical Analysis & Bacteriological Analysis,6.9,12,54.6,88,2.5,259
+1322,26/2/2015,Water Tank,Bomet,Jar Test/Full Chemical Analysis,7.1,12,,144,2.5,296
+1447,28/5/2015,Tap,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.24,12,37.2,60,0,357
+74,17/3/16,Borehole,Kajiado,Full Chemical Analysis,,12,613.8,990,2.5,421
+730,4/11/2012,Borehole,Northern Bahr-el Ghazal  [Southern Sudan],Full Chemical Analysis,5.89,14,171,,2.5,37
+887,2/5/2013,Roof catchment,Kajiado,Full Chemical Analysis,6.1,14,70.06,113,2.5,148
+776,27/6/2012,Dam (Rain),Kajiado,Full Chemical Analysis/Residual Chlorine,4.63,16,193,123.52,2.5,71
+992,8/22/2013,Shallow well,Kiambu,Full Chemical Analysis/Bacteriological Analysis,6.1,16,141.36,228,0.5,217
+80,24/3/16,Borehole,Nairobi,Full Chemical Analysis/Bacteriological Analysis,6.1,16,2535.8,4090,,426
+1132,6/24/2014,Spring,Kitui,Full Chemical Analysis,6.2,16,435.24,702,2.5,266
+886,2/5/2013,Roof catchment,Kajiado,Full Chemical Analysis,6.24,16,267.2,431,2.5,147
+1107,4/17/2014,Tap,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.1,16,50.84,83,2.5,258
+1080,3/18/2014,Borehole ,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.2,16,74.4,120,5,247
+143,26/4/16,Borehole,Nairobi,Full Chemical Analysis,6.6,18,1717.4,2770,0,451
+1106,4/14/2014,Borehole ,Nairobi,Full Chemical Analysis & Bacteriological Analysis,6.8,18,74.4,121,2.5,257
+996,9/3/2013,Shallow well,,Full Chemical Analysis/Bacteriological Analysis,7.21,18,150.66,243,2.5,218
+38,22/2/16,Borehole,Makueni,Full Chemical Analysis,6.5,19,297.6,480,2.5,412
+1464,15/6/2015,,Murang'a,Full Chemical Analysis & Bacteriological Analysis,6.75,20,45.88,75,7.5,360
+1436,19/5/2015,Borehole,Meru,Full Chemical Analysis/Bacteriological Analysis,7.18,20,236.84,382,0,351
+123,,Borehole,Nairobi,Full Chemical Analysis,7.1,21,1147,1850,0,444
+36,2/10/2016,Spring,Elgeyo Marakwet,Full Chemical Analysis,6.7,22,471.2,760,0,410
+166,29/5/16,River,Narok,Full Chemical Analysis,6.8,22,1145.76,1848,2.5,463
+738,4/24/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.11,22,101,63,2,44
+703,2/27/2012,,Nairobi,Full Chemical Analysis/Bacteriological Analysis,7.15,22,95,,2,17
+1323,26/2/2015,,Bomet,Full Chemical Analysis/Res Cl-,7.4,22,,166,5,297
+1410,7/5/2015,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.5,22,,84,,328
+912,3/28/2013,Domestic (E1),Kiambu,Full Chemical Analysis/Bacteriological Analysis,8.29,22,3.722,6,2.5,171
+1284,22/1/2015,Rain,Nairobi,Full Chemical Analysis & Bacteriological Analysis,6.5,23,558,90,2.5,276
+43,3/1/2016,Tap,Nairobi,Full Chemical Analysis/Bacteriological Analysis,8,23,1178,1900,0,417
+3,16/1/16,Spring,Homa bay,Full Chemical Analysis/Bacteriological Analysis,6.4,24,499.72,806,7.5,383
+100,4/10/2016,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,6.9,24,1109.8,1790,5,440
+1349,6/3/2015,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.32,24,148.8,240,0,307
+44,3/1/2016,Effluent,Isiolo,Effluent,7.9,24,675.8,1090,2.5,418
+1446,28/5/2015,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.46,24,174.84,282,0,356
+42,3/1/2016,Tap,Nairobi,Full Chemical Analysis/Bacteriological Analysis,8,25,1233.8,1990,0,416
+890,2/12/2013,Raw Effluent,Machakos,Effluent,6.8,26,4844.7,7814,40,150
+4,18/1/16,Final Effluent,Thika,Effluent,6.2,28,830.8,1.34,20,384
+704,2/27/2012,,Nairobi,Full Chemical Analysis/Bacteriological Analysis,6.98,28,90,,2,18
+1344,27/2/2015,Borehole,Wajir,Full Chemical Analysis/LPO,7.38,28,2889.2,4660,2.5,302
+997,9/18/2013,Shallow well,,Full Chemical Analysis,7.6,28,166.78,269,5,219
+41,3/1/2016,Mix CC/BH,Nairobi,Full Chemical Analysis/Bacteriological Analysis,8.1,29,1506.6,2430,0,415
+18,2/11/2016,Borehole,Nairobi,Full Chemical Analysis,8.4,29,161.2,260,0,395
+163,30/5/16,Tap - (B/H/C.C),Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.7,29,1246.2,2010,0,460
+771,6/14/2012,Borehole,Kiambu,Full Chemical Analysis & Bacteriological Analysis,5.82,30,108,66.96,0,66
+772,6/14/2012,Borehole,Kiambu,Full Chemical Analysis & Bacteriological Analysis,6.39,30,110,68.2,2.5,67
+19R,,Dam ,Machakos,Jar Test/Bacteriological Analysis/Full Chemical Analysis,7.4,30,111.6,180,70,397
+83,29/3/16,Borehole,Nairobi,Full Chemical Analysis/Bacteriological Analysis,7.6,30,403,670,0,429
+1321,26/2/2015,Rain,Bomet,Jar Test/Full Chemical Analysis,7.8,30,,122,5,295
+1059,2/7/2014,,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.4,32,80.6,130,2.5,235
+40,3/1/2016,Borehole,Nairobi,Full Chemical Analysis/Bacteriological Analysis,8.3,32,1469.4,2.37,2.5,414
+1285,22/1/2015,Rain,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7,33,0.0434,70,5,277
+177,13/6/16,Borehole,Kiambu,Full Chemical Analysis,7.5,34,2120.4,3420,0,473
+189,7/1/2016,Borehole,Kajiado,Full Chemical Analysis,8.8,34,1686.4,2720,8.79,482
+746,5/15/2012,Borehole,Nairobi,,8.29,34.6,,,,49
+24,2/11/2016,Tap,Kajiado,Full Chemical Analysis,8.4,35,217,350,0,399
+1089,3/25/2014,River,Nairobi,Full Chemical Analysis,5.7,36,49.6,80,2.5,248
+968,6/25/2013,Effluent (raw) (A),Machakos,Effluent,6.5,36,,,,202
+1280,14/1/2015,Effluent,Rift Valley,Effluent,,36,621,1001,7.5,272
+121,,Borehole,Nairobi,Full Chemical Analysis,8.8,39,2046,3300,0,442
+789,19/7/2012,Borehole,Kiambu,Full Chemical Analysis,6.38,40,790,490,2.5,80
+1445,25/5/2015,Borehole,Migori,Full Chemical Analysis,7.17,40,,,,355
+1303,28/1/2015,Tap,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.18,40,49.6,80,2.5,279
+969,6/25/2013,Final Effluent (B),Machakos,Effluent,7.4,40,,,,203
+823,28/9/2012,Borehole,Kajiado,Full Chemical Analysis & Bacteriological Analysis,8.3,40,96,59.8,1,95
+851,21/11/2012,Borehole,Kiambu,Full Chemical Analysis & Bacteriological Analysis,5.63,42,98,60.76,2.5,116
+914,3/28/2013,Domestic (F3),Kiambu,Full Chemical Analysis/Bacteriological Analysis,5.75,42,57.04,92,2.5,173
+842,30/10/2012,Borehole,Kirinyaga,Full Chemical Analysis & Bacteriological Analysis,6.86,42,120,74.4,2.5,109
+1397,22/4/2015,Tap,Nairobi,Full Chemical Analysis & Bacteriological Analysis,6.97,42,73.78,119,2.5,327
+826,11/9/2012,Tap,Kitui,Full Chemical Analysis & Bacteriological Analysis,7.5,42,223,138.3,3,96
+72,16/3/16,Borehole,Nairobi,Full Chemical Analysis,,42,1878.6,3030,0,420
+1307,4/5/2015,Well Spring,Kitui,Full Chemical Analysis,6.42,44,78.1,126,5,283
+34,22/2/16,Effluent,Kajiado,Effluent,7.5,44,2647.4,4270,10,408
+1090,3/25/2014,Spring,Busia,Full Chemical Analysis,6.5,46,124,200,30,249
+1346,27/2/2015,Borehole,wajir,Full Chemical Analysis/LPO,7.61,46,607.6,980,0,304
+889,2/12/2013,Final Effluent,Machakos,Effluent,7.8,46,4545.2,7331,35,149
+147,23/4/16,Lake,Baringo,Full Chemical Analysis,7,47,1872.4,3020,2.5,455
+899,3/26/2013,Borehole ,Kiambu,Full Chemical Analysis/Bacteriological Analysis,5.6,48,95.48,154,2.5,158
+850,21/11/2012,Borehole,Kiambu,Full Chemical Analysis & Bacteriological Analysis,5.65,48,96,59.52,2.5,115
+913,3/28/2013,Domestic (E2),Kiambu,Full Chemical Analysis/Bacteriological Analysis,5.8,48,52.7,85,2.5,172
+725,3/27/2012,Spring,Kajiado,Full Chemical Analysis,6.3,48,393,244,2,34
+880,2/1/2013,Borehole,Marsabit,Full Chemical Analysis,7.5,48,267.8,432,2.5,141
+967,6/19/2013,Effluent,Embu,"PH,Conductivity",7.8,48,,,,201
+101,14/4/16,Tap,Nairobi,Full Chemical Analysis/Bacteriological Analysis,,48,2083.2,3360,,441
+849,21/11/2012,Borehole,Kiambu,Full Chemical Analysis & Bacteriological Analysis,5.64,50,104,64.48,2.5,114
+770,6/14/2012,Borehole,Kiambu,Full Chemical Analysis & Bacteriological Analysis,5.88,50,109,67.58,0,65
+1450,5/6/2015,Spring,Uasin Gishu,Full Chemical Analysis,6,50,67.58,109,25,359
+832,16/10/2012,Borehole,Machakos,Full Chemical Analysis,6.1,50,920,570.4,3,102
+768,6/7/2012,,Machakos,Full Chemical Analysis,6.76,50,186.7,115.8,0,63
+23,15/2/16,Borehole,Nairobi,Turbidity,7.1,50,917.6,1480,0,398
+202,15/7/16,Borehole,Nairobi,Full Chemical Analysis,8.5,50,1218,2030,0,488
+767,6/7/2012,,Machakos,Full Chemical Analysis,6.87,52,136.5,84.63,2.5,62
+1395,13/4/2015,Borehole,Machakos,Full Chemical Analysis,7.3,52,329,530,25,325
+1000,11/15/2013,Domestic,Kericho,Full Chemical Analysis,7.4,52,63.24,103,2.2,221
+769,6/7/2012,,Machakos,Full Chemical Analysis,6.8,54,174.5,108.19,2.5,64
+1071,2/27/2014,Borehole ,Nakuru,Full Chemical Analysis,7.5,54,4303,6940,2.5,241
+174,6/10/2016,Borehole,Kajiado,Full Chemical Analysis,7.2,55,4129.2,6660,0,470
+897,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,5.41,56,87.42,141,2.5,156
+751,5/18/2012,Borehole,Bungoma,Full Chemical Analysis,5.58,56,176,109.12,4.5,54
+1109,4/27/2014,B/H - Shallow well,Nairobi,Full Chemical Analysis,7,56,326.7,527,2.5,260
+1345,27/2/2015,Borehole,wajir,Full Chemical Analysis/LPO,7.5,56,613.8,990,0,303
+1343,27/2/2015,Borehole,Wajir,Full Chemical Analysis/LPO,7.97,56,2467.6,3730,0,301
+168,6/4/2016,Borehole,Nyandarua,Full Chemical Analysis,7,57,1853.8,2990,0,465
+1114,6/3/2014,Borehole ,Makueni,Full Chemical Analysis,7.1,58,1224.5,1975,7.5,261
+998,9/25/2013,Borehole,,Full Chemical Analysis,7.4,58,726.02,1171,2.5,220
+178,6/12/2016,Borehole,Nakuru,Full Chemical Analysis,6.9,60,6522.4,10520,0,474
+790,24/7/2012,EFfluent,Kiambu,Effluent,7.29,60,263,163,2.5,81
+172,6/5/2016,Borehole,Kiambu,Full Chemical Analysis,7.6,60,2244.4,3620,0,468
+169,6/6/2016,Borehole ,Turkana,Full Chemical Analysis,7.7,60,2740.4,4420,0,466
+164,25/5/16,Borehole,Turkana,Full Chemical Analysis,8,60,2281.6,3680,0,461
+1026,1/17/2014,Borehole ,Kiambu,Full Chemical Analysis & Bacteriological Analysis,6.4,62,99.2,160,2.5,227
+962,6/28/2013,Domestic,Kiambu,Bacteriological Analysis,7.2,62,,,,199
+1393,9/4/2015,Shallow well,Kajiado,Full Chemical Analysis & Bacteriological Analysis,9.12,62,217,350,2.5,324
+822,25/9/2012,Borehole,Kiambu,Full Chemical Analysis,6.8,64,194,120,2,94
+1060,2/7/2014,Borehole ,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.1,64,211.42,341,2.5,236
+893,2/27/2013,Domestic,Nairobi,Full Chemical Analysis/Bacteriological Analysis,7.34,64,84.32,136,2.5,153
+1078,3/13/2014,Effluent,Nairobi,Effluent/Bacteriological Analysis/Residual Chlorine,7.7,64,611.32,986,7.5,245
+77,3/10/2016,,Kisumu East,Full Chemical Analysis,,65,2709.4,4370,0,424
+1030,1/17/2014,Effluent,Kiambu,Waste water,6.28,66,267,430,5,231
+1061,2/7/2014,Borehole ,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.3,68,158.72,256,2.5,237
+711,3/12/2012,Domestic,Meru,Full Chemical Analysis/Bacteriological Analysis,8.04,68,104,64.5,3,24
+1347,3/3/2015,Borehole,,Full Chemical Analysis,8.33,68,248,400,0,305
+196,7/8/2016,Borehole,Kisii,Full Chemical Analysis,7.1,69,1519,2450,0,485
+1133,6/27/2014,Borehole ,Kiambu,Full Chemical Analysis,5.8,70,1810.4,2920,2.5,267
+1001,11/20/2013,Raw water,Kiambu,Full Chemical Analysis & Biological,7.6,70,148.18,239,20,222
+1128,6/10/2014,Borehole ,Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.5,70,370.76,598,2.5,262
+1469,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,70,,,,364
+1283,22/1/2015,Rain,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.3,72,682,110,5,275
+1426,7/5/2015,Piped Water,Kajiado,Full Chemical Analysis,8.49,72,143.84,232,2.5,342
+1027,1/17/2014,Borehole ,Kiambu,Full Chemical Analysis & Bacteriological Analysis,6.6,74,108.5,175,2.5,228
+724,3/27/2012,Spring,Kajiado,Full Chemical Analysis,7.59,74,342,,2,33
+1029,1/17/2014,Effluent,Kiambu,Waste water,6.1,76,93,150,2.5,230
+1031,1/17/2014,Effluent,Kiambu,Waste water,6.25,76,293,473,7.5,232
+173,6/8/2016,Borehole,Kajiado,Full Chemical Analysis,7.2,81,4786.4,7720,0,469
+1348,6/3/2015,,Nairobi,Full Chemical Analysis/Bacteriological Analysis,6.09,82,558,900,0,306
+831,12/10/2012,Effluent,Kiambu,Full Chemical Analysis & Bacteriological Analysis,6.26,82,341,211.42,4,101
+963,6/28/2013,Domestic,Kiambu,Bacteriological Analysis,6.8,82,,,,200
+1130,6/12/2014,Final effluent,Nairobi,Effluent/Bacteriological Analysis/Residual Chlorine,7.6,82,398,642,5,264
+15,2/5/2016,Borehole,Kajiado,Full Chemical Analysis,7.2,83,421.6,680,0,392
+720,3/22/2012,Borehole,Nyamira,Full Chemical Analysis,6.4,84,203,125.86,3,29
+175,6/12/2016,Borehole,Kajiado,Full Chemical Analysis,7.3,84,6813.8,10990,2.5,471
+1377,31/3/2015,Dam,Kajiado,Full Chemical Analysis & Bacteriological Analysis,8.43,84,372,600,5,311
+1028,1/17/2014,Borehole ,Kiambu,Full Chemical Analysis & Bacteriological Analysis,6.56,86,105,169,2.5,229
+778,29/6/2012,Borehole,,Full Chemical Analysis,6.43,88,232,148.48,0,73
+13,28/1/16,Borehole,Nairobi,Full Chemical Analysis/Bacteriological Analysis,7.9,88,3565,5750,0,390
+165,29/5/16,Borehole,Narok,Full Chemical Analysis,6.9,89,11922.6,19230,0,462
+1308,16/2/2016,Tap,Nairobi,Full Chemical Analysis,6.3,90,177.94,287,0,284
+791,24/7/2012,Effluent,Kiambu,Effluent,7.8,90,212,131,5,82
+1470,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,90,,,,365
+731,4/11/2012,Borehole,Kiambu,Full Chemical Analysis,6.35,92,716,,2.5,38
+1396,15/4/2015,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.8,92,,369,25,326
+1380,31/3/2015,Dam,Kajiado,Full Chemical Analysis & Bacteriological Analysis,8.06,94,589,590,20,314
+12,28/1/16,Borehole,Nairobi,Full Chemical Analysis/Bacteriological Analysis,8,95,3986.6,64.3,0,389
+961,6/28/2013,Domestic,Kiambu,Bacteriological Analysis,2.6,96,,,,198
+721,3/22/2012,Borehole,Nyamira,Full Chemical Analysis,5.9,96,146,90.52,5,30
+780,2/7/2012,River ,Kajiado,Full Chemical Analysis & Bacteriological Analysis,6.41,96,459,284.58,2.5,75
+148,5/1/2015,Borehole,Kisumu,Full Chemical Analysis,6.9,98,2796.2,4510,0,456
+124,21/4/16,Borehole,Bomet,Full Chemical Analysis/Bacteriological Analysis,7,98,3478.2,5610,2.5,445
+833,19/10/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.37,98,247,153.14,2.5,103
+708,3/3/2012,River ,Central,Full Chemical Analysis,8,98,325,201.5,1,21
+35,22/2/16,Effluent,Kajiado,Effluent,7.5,99,5400.2,8710,7.5,409
+762,6/5/2012,Effluent,Kiambu,Full Chemical Analysis/Bacteriological Analysis/Effluent,7.68,100,717,4445.4,10,59
+802,30/7/2012,Borehole,Makueni,Full Chemical Analysis,7.8,104,2310,1432.2,6,87
+781,2/7/2012,River ,Kajiado,Full Chemical Analysis & Bacteriological Analysis,6.48,106,469,290.78,0,76
+1468,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,106,,,,363
+860,26/11/2012,Borehole,Turkana,Full Chemical Analysis,7.64,108,3050,1891,2.5,119
+32,17/2/16,Borehole,Machakos,Full Chemical Analysis,7.9,108,843.2,1360,50,406
+740,4/19/2012,Raw Effluent,Machakos,Effluent,7.71,110,15.85,9827,60,46
+197,7/6/2016,Borehole,Kajiado,Full Chemical Analysis,,110,5394,8700,0,486
+830,12/10/2012,Effluent,Kiambu,Full Chemical Analysis & Bacteriological Analysis,6.29,112,491,304.42,7,100
+859,26/11/2012,Borehole,Turkana,Full Chemical Analysis,7.12,112,13420,8320,7.5,118
+705,2/27/2012,Borehole,Nairobi,Full Chemical Analysis/Bacteriological Analysis,7.8,112,393,,2.5,19
+1376,31/3/2015,Borehole,Migori,Full Chemical Analysis,7.92,112,260,420,2.5,310
+75,3/7/2016,Borehole,Nyando,Full Chemical Analysis,,112,18476,29800,0,422
+1350,6/3/2015,Well,Machakos,Full Chemical Analysis & Bacteriological Analysis,7.3,122,446.2,720,2.5,308
+903,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,7.68,122,114.08,184,2.5,162
+875,2/1/2013,Pan,Marsabit,Full Chemical Analysis,7.73,122,99.8,161,55,136
+891,2/27/2013,Borehole,Kajiado,Full Chemical Analysis/Bacteriological Analysis,7.26,124,76.9,124,2.5,151
+985,8/13/2013,Shallow well,Nairobi,Full Chemical Analysis/Bacteriological Analysis,7.55,124,158.1,255,2.5,212
+719,3/22/2012,Borehole,Kisii,Full Chemical Analysis,7.04,128,293,181.66,4,28
+876,2/1/2013,Dam,Marsabit,Full Chemical Analysis,7.92,128,94.3,152,7.5,137
+1387,1/4/2015,Effluent,Kajiado,Full Chemical Analysis,7.57,130,583,940,90,318
+739,4/24/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.39,130,413,256,2.5,45
+1467,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,130,,,,362
+1482,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,130,,,,377
+201,17/7/16,Borehole,Kajiado,Full Chemical Analysis,7.3,131,3100.6,5001,0,487
+1064,2/7/2014,Borehole ,Nairobi,Full Chemical Analysis,7.4,132,337.38,544,2.5,239
+1003,11/29/2013,Shallow well,Nairobi,Full Chemical Analysis,7.1,136,176.7,285,4,224
+690,12/20/2011,Borehole,Kajiado,Full Chemical Analysis,7.98,138,840,1,,7
+702,2/27/2012,Borehole ,Nairobi,Full Chemical Analysis/Bacteriological Analysis,8.9,138,405,,2.5,16
+786,12/7/2012,Effluent,Machakos,Effluent,8.58,140,427,264.74,60,77
+779,29/6/2012,Piped water,,Full Chemical Analysis,6.25,144,343,212.66,2.5,74
+76,3/6/2016,Borehole,Nyando,Full Chemical Analysis,,146,23486.6,37880,0,423
+775,25/6/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,6.6,150,540,345.6,5,70
+806,16/8/2012,Borehole,Mwingi,Full Chemical Analysis,6.6,150,340,210.8,7.5,89
+156,18/5/16,Borehole,Kajiado,Full Chemical Analysis,7,152,7136.2,11510,0,458
+829,12/10/2012,Effluent,Kiambu,Effluent,6.51,154,965,598.3,12,99
+881,2/1/2013,Shallow well,Marsabit,Full Chemical Analysis,7.86,154,5978.6,9643,2.5,142
+78,21/3/16,Borehole,Narok,Full Chemical Analysis,,156,6243.4,10070,2.5,425
+1390,1/4/2015,Effluent,Kajiado,Full Chemical Analysis,7.65,158,521,840,125,321
+1306,4/4/2015,Earth Pan,Wajir,AS/LPO,6.53,160,130,210,2.5,282
+1131,6/12/2014,Borehole ,Kajiado,Full Chemical Analysis & Bacteriological Analysis,7.4,164,770.66,1243,2.5,265
+5,,Borehole,Nairobi,Full Chemical Analysis,8.4,164,3460,5.58,2.5,385
+871,1/30/2013,Domestic,,Full Chemical Analysis,7.58,168,3876,6253,2.5,132
+710,3/12/2012,Tap + Borehole,Meru,Full Chemical Analysis/Bacteriological Analysis,8.5,170,493,306,2,23
+907,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,7.34,174,174.84,282,2.5,166
+179,13/6/16,Borehole,Lodwar,,7.7,176,2672.2,4310,0,475
+764,6/5/2012,Effluent,Kiambu,Full Chemical Analysis/Bacteriological Analysis/Effluent,6.77,180,3370,2089.4,2.5,61
+1474,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,180,,,,369
+819,13/9/2012,Effluent,Nairobi,Effluent,7.6,182,1270,787.4,15,91
+1281,14/1/2015,Borehole,Rift Valley,Full Chemical Analysis,7.1,186,298,481,,273
+974,7/16/2013,Drinking,Kiambu,Full Chemical Analysis,7.74,188,,252,2.5,208
+722,3/26/2012,Borehole,Taita Taveta,Full Chemical Analysis,6.6,192,310,,2,31
+1388,1/4/2015,Effluent,Kajiado,Effluent,7.1,192,552,890,15,319
+892,2/27/2013,Effluent,Nairobi,Effluent/Bacteriological Analysis,7.11,194,331.7,535,10,152
+723,3/26/2012,Spring,Taita Taveta,Full Chemical Analysis,8.01,194,604,,1,32
+726,3/27/2012,Borehole,Mogadishu Somalia,Full Chemical Analysis,7.3,198,1225,756,1,35
+25,16/2/16,Effluent,Nairobi,Effluent,8.9,200,41323,66650,70,400
+1002,11/27/2013,Effluent,Nairobi,"Effluent,Bacteriological Analysis,NO3,Res-chlorine",7.22,202,544.36,878,5,223
+701,2/19/2012,Borehole,Machakos,Full Chemical Analysis,8.95,202,1670,,3,15
+1431,12/5/2015,Borehole,Machakos,Full Chemical Analysis & Bacteriological Analysis,8.48,206,620,1000,5,347
+1319,23/2/2015,Borehole,Wajir,Full Chemical Analysis & Bacteriological Analysis,7.14,210,0.62,1,,293
+836,22/10/2012,,Somalia,Full Chemical Analysis,7.34,210,28100,17422,2.5,106
+1471,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,210,,,,366
+17,2/11/2016,Effluent,Kajiado,Effluent,7.2,213,1153.2,1860,15,394
+727,3/28/2012,Shallow Well,Moshi Tanzania,Full Chemical Analysis,7.13,216,637,395,2.5,36
+898,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,7.46,216,225.06,363,2.5,157
+848,15/11/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.3,216,491,304.4,2.5,113
+873,2/1/2013,Borehole,Marsabit,Full Chemical Analysis,9.29,216,1506.6,2430,5,134
+1389,1/4/2015,Effluent,Kajiado,Effluent,7.3,220,577,930,10,320
+906,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,8.19,222,213.9,345,2.5,165
+838,18/10/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,9.1,224,432,267,2.5,108
+735,4/23/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.49,230,829,514,2,41
+700,1/27/2012,Borehole,Nakuru,Full Chemical Analysis,8.3,230,944,,2,14
+691,1/12/2012,Borehole,Nakuru,Full Chemical Analysis,9.7,230,833,3,,8
+1305,4/3/2015,Earth Pan,Wajir,AS/LPO ,7.44,236,297.6,480,2.5,281
+707,3/1/2012,Borehole,Mogadishu,Full Chemical Analysis,7.78,236,2790,1729.8,2,20
+788,19/7/2012,Borehole,Narok,Full Chemical Analysis,8.23,240,1350,837,,79
+917,3/28/2013,Effluent (L3),Kiambu,Effluent/Bacteriological Analysis,7.19,244,2250.6,3630,5,176
+820,21/9/2012,Borehole,Kajiado,Full Chemical Analysis,8.25,244,34000,21080,80,92
+45,3/1/2016,Waste,Isiolo,Effluent,8,245,6131.8,9890,15,419
+1062,2/7/2014,Effluent,Nairobi,Effluent/Residual Chlorine/Nitrates/Bacteriological Analysis,7.5,248,536.9,866,7.5,238
+777,27/6/2012,Borehole,Baringo,Full Chemical Analysis,8.33,254,600,384,2.5,72
+709,3/5/2012,Borehole,Lokichoggio,Full Chemical Analysis,7.08,256,757,469,2,22
+1444,25/5/2015,Borehole,Narok,Full Chemical Analysis,6.75,260,2529.6,4080,0,354
+1278,13/1/2015,Borehole,Iringa (Tanzania),Full Chemical Analysis & Bacteriological Analysis,7.1,260,1039,1676,2.5,270
+1276,7/1/2015,Borehole,Kajiado,Full Chemical Analysis,7.3,260,,1720,2.5,268
+1033,1/27/2014,Effluent (outlet),Kiambu,Waste water,7.45,264,329.8,532,15,234
+818,13/9/2012,Borehole,Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.5,264,944,585.3,3,90
+901,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,7.51,270,277.14,447,2.5,160
+763,6/5/2012,Effluent,Kiambu,Full Chemical Analysis/Bacteriological Analysis/Effluent,7.73,278,8410,5214.2,2.5,60
+1479,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,280,,,,374
+1094,4/1/2014,Borehole ,Makueni,Full Chemical Analysis & Bacteriological Analysis,6.8,284,1444.6,2330,2.5,250
+1472,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,290,,,,367
+950,6/17/2013,Raw Effluent,Nairobi,Effluent,7.04,296,,807,45,196
+915,3/28/2013,Effluent (L1),Kiambu,Effluent/Bacteriological Analysis,6.87,300,1841.4,2970,10,174
+902,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,7.24,308,302.56,488,2.5,161
+916,3/28/2013,Effluent (L2),Kiambu,Effluent/Bacteriological Analysis,7.96,320,2170,3500,7.5,175
+1391,1/4/2015,Effluent,Kajiado,Full Chemical Analysis,7.64,322,961,1550,250,322
+805,16/8/2012,Borehole,Baringo,Full Chemical Analysis,8.74,324,634,393,2.5,88
+1065,2/19/2014,Borehole ,Machakos,Full Chemical Analysis,8.5,340,,1460,2.5,240
+843,18/10/2012,Borehole,Kiambu,Full Chemical Analysis,8.17,344,903,559.9,5,110
+10,17/1/16,Borehole,Narok,Full Chemical Analysis,,344,9213.2,14.86,2.5,387
+792,25/7/2012,Well,Somalia,Full Chemical Analysis,7.883,350,10200,6324,1,83
+1473,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,350,,,,368
+837,22/10/2012,Well,Somalia,Full Chemical Analysis,7.8,354,9600,5952,7.5,107
+1004,11/29/2013,Shallow well,Nairobi,Full Chemical Analysis,6.8,362,743.38,1199,10,225
+1077,3/12/2014,River,Nairobi,Full Chemical Analysis,7.7,370,622.5,1004,75,244
+879,2/1/2013,Shallow well,Marsabit,Full Chemical Analysis,8.39,376,3710.1,5984,2.5,140
+1277,9/1/2015,Borehole,Thika,Full Chemical Analysis,6.7,378,994.48,1604,2.5,269
+1304,4/2/2015,Borehole,Wajir,AS/LPO Full Chemical Analysis,6.97,380,1940,3130,2.5,280
+1392,1/4/2015,Effluent,Kajiado,Effluent,7.2,380,824.6,1330,240,323
+904,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,7.59,388,372,600,2.5,163
+885,2/6/2013,Observation well,Mogadishu,Full Chemical Analysis,7.1,390,2008.8,3240,2.5,146
+1480,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,394,,,,375
+911,3/28/2013,Borehole,Mogadishu,Full Chemical Analysis,7.49,398,178.6,2880,2.5,170
+732,4/11/2012,Spring,,Full Chemical Analysis,8.22,398,2260,1401,2.5,39
+1429,7/5/2015,,Murang'a,Bacteriological Analysis,8.87,400,203.36,328,2.5,345
+1477,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,410,,,,372
+981,8/2/2013,Spring,Nairobi,Full Chemical Analysis,8.8,420,62,100,2.5,210
+872,2/1/2013,Domestic,Machakos,Full Chemical Analysis/Bacteriological Analysis,8.72,438,670.2,1081,2.5,133
+793,25/7/2012,Raw Effluent,Machakos,Effluent,10.207,440,12520,7762,75,84
+1282,14/1/2015,Borehole,Kajiado,Bacteriological Analysis,7,460,143,231,2.5,274
+919,4/15/2013,Borehole,Kitui,Full Chemical Analysis,7.37,464,58.28,94,2.5,178
+741,4/19/2012,Final Effluent,Machakos,Effluent,7.95,480,18.85,11687,42,47
+910,3/26/2013,Downstream,Kiambu,Effluent,6.55,500,82.46,133,10,169
+1432,13/5/2015,Effluent,Kajiado,Effluent,7.17,500,721.68,1164,20,348
+1427,7/5/2015,,Murang'a,Full Chemical Analysis & Bacteriological Analysis,9.19,500,470.58,759,2.5,343
+1428,7/5/2015,,Murang'a,Bacteriological Analysis,9.53,500,593.96,958,2.5,344
+883,2/1/2013,Borehole 2,Machakos,Full Chemical Analysis/Bacteriological Analysis,8.13,508,2429.2,3918,2.5,144
+951,6/17/2013,Final Effluent,Nairobi,Effluent,8.21,516,,798,35,197
+847,8/11/2012,Borehole,,Full Chemical Analysis,6.7,530,2050,1271,7.5,112
+96,4/11/2016,Final Effluent,Nairobi,Effluent/TDS/TSS/Oil & greese/NH4+/BOD5/COD/Total chromium/PO43-/S2-/Colour/SO42-/Cl-,7.5,550,89652,144600,70,439
+1032,1/27/2014,Waste water (inlet),Kiambu,Waste water,7.5,552,790.5,1275,30,233
+844,3/11/2012,Borehole,Laikipia,Full Chemical Analysis & Bacteriological Analysis,7.4,554,1650,1023,7.5,111
+7,,Spring,Kirinyaga,Full Chemical Analysis,6.3,556,9647.2,15.56,5,386
+905,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,7.04,556,518.94,837,2.5,164
+1475,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,558,,,,370
+884,2/1/2013,Borehole 3,Machakos,Full Chemical Analysis/Bacteriological Analysis,8.23,566,1881.1,3034,2.5,145
+712,3/12/2012,Waste ,Meru,Waste Water ,7.7,570,1184,734,15,25
+882,2/1/2013,Borehole 1,Machakos,Full Chemical Analysis/Bacteriological Analysis,8.47,594,1682.1,2713,2.5,143
+918,4/5/2013,Effluent,Tharaka Nithi,Effluent,5.63,600,575.4,929,30,177
+1435,14/5/2015,River,Baringo,Full Chemical Analysis,6.26,600,1002,167,2.5,350
+1433,13/5/2015,Effluent,Kajiado,Full Chemical Analysis,6.52,600,615.04,992,15,349
+931,5/22/2013,Effluent,Machakos,"BOD,COD,TSS,NH4,TDS,Bacteriological Analysis",8.13,600,,1570,,184
+1430,7/5/2015,,Murang'a,Bacteriological Analysis,8.96,600,486.08,784,2.5,346
+874,2/1/2013,Borehole,Marsabit,Full Chemical Analysis,8.3,610,1173.6,1893,5,135
+900,3/26/2013,Borehole,Kiambu,Full Chemical Analysis/Bacteriological Analysis,7.36,618,562.34,907,2.5,159
+1300,27/1/2015,Domestic,Murang'a,Full Chemical Analysis & Bacteriological Analysis,7.06,624,55.8,90,2.5,278
+877,2/1/2013,Borehole,Marsabit,Full Chemical Analysis,8.44,632,655.96,1058,2.5,138
+870,1/29/2013,Domestic,Kitui,Full Chemical Analysis,7.88,686,1438.4,2320,2.5,131
+983,8/2/2013,Spring,Nairobi,Full Chemical Analysis/Bacteriological Analysis,7.16,786,644.8,1040,5,211
+1483,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,800,,,,378
+878,2/1/2013,Shallow well,Marsabit,Full Chemical Analysis,7.73,818,1229.5,1983,5,139
+909,3/26/2013,Effluent (before river),Kiambu,Effluent,7.02,900,881.64,1422,25,168
+1478,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,900,,,,373
+1279,14/1/2015,Effluent,Kajiado,Full Chemical Analysis,7,990,,317,75,271
+908,3/26/2013,Influent,Kiambu,Effluent,6.54,1100,905.82,1461,35,167
+930,5/22/2013,Effluent,Machakos,"BOD,COD,TSS,NH4,TDS,Bacteriological Analysis",7.9,1200,,1930,,183
+695,2/15/2012,Effluent,Machakos,Effluent,7.16,1300,29680,18401,45,9
+801,30/7/2012,Borehole,Homabay,Full Chemical Analysis,8.5,1336,3410,21142,75,86
+896,3/22/2013,Effluent (raw),Machakos,Effluent,6.86,1400,4042,6520,30,155
+696,2/15/2012,Effluent,Machakos,Effluent,7.2,1500,18560,11507,16,10
+972,7/4/2013,Downstream,Kiambu,Effluent,6.5,1800,,150,7.5,206
+926,5/14/2013,Effluent (raw),Machakos,Effluent,7.1,1800,14012,22600,150,181
+1073,3/3/2014,Final effluent,Kiambu,Effluent,7.1,1800,,7500,50,243
+835,17/10/2012,Final Effluent,Machakos,Effluent,7.87,1800,5824,3610,50,105
+1476,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,2200,,,,371
+938,5/29/2013,Final Effluent,Machakos,Effluent,8.1,2300,24862,40100,60,189
+864,12/6/2012,Effluent (raw),Machakos,Effluent,6.86,2400,18800,11656,50,121
+864,12/6/2012,Effluent (raw),Machakos,Effluent,6.86,2400,11656,18800,50,125
+895,3/22/2013,Effluent (raw),Machakos,Effluent,7.75,2400,4605,7428,35,154
+1481,16/6/2015,Effluent,Machakos,Eff/Bacteriological Analysis,,2400,,,,376
+834,17/10/2012,Raw Effluent,Machakos,Effluent,8.36,2600,35300,21886,75,104
+866,12/17/2012,Effluent (raw),Machakos,Effluent,8.02,3000,17123,10616,55,123
+866,12/17/2012,Effluent (raw),Machakos,Effluent,8.02,3000,10616,17123,55,127
+971,7/4/2013,Outlet,Kiambu,Effluent,6.52,3400,,1571,30,205
+921,4/17/2013,Final Effluent,Machakos,Effluent,6.72,3600,,14370,35,180
+865,12/6/2012,Final Effluent,Machakos,Effluent,8.21,3600,29200,18104,1.5,122
+865,12/6/2012,Final Effluent,Machakos,Effluent,8.21,3600,18104,29200,1.5,126
+927,5/14/2013,Final Effluent,Machakos,Effluent,8.3,5460,22444,30200,40,182
+937,5/29/2013,Effluent (raw),Machakos,Effluent,8.58,5500,26536,42800,70x2,188
+867,12/17/2012,Final Effluent,Machakos,Effluent,8.19,5800,32091,19896,35,124
+867,12/17/2012,Final Effluent,Machakos,Effluent,8.19,5800,19896,32091,35,128
+970,7/4/2013,Effluent inlet,Kiambu,Effluent,6.93,6200,,1582,40,204
+1072,3/3/2014,Influent,Kiambu,Effluent,6.4,6600,,7900,90,242
+920,4/17/2013,Effluent (raw),Machakos,Effluent,6.75,7800,,11350,35x2,179
+828,3/10/2012,Final Effluent,Machakos,Effluent,7.6,10400,19823,12290,60,98
+869,1/11/2013,Effluent (raw),Machakos,Effluent,8.55,10400,4713,7603,75,130
+827,3/10/2012,Raw Effluent,Machakos,Effluent,9.2,13000,20196,12521.5,95,97
+1438,22/5/2015,Effluent,Nairobi,Turbidity,,20000,,,,353
+991,8/20/2013,Effluent,Nairobi,"Effluent,SO42-/PO42-",8.3,20200,9238,14900,10,216
+868,1/11/2013,Effluent ,Nairobi,Effluent,7.79,38600,18704,30168,7.5,129
+1,14/1/16,Final Effluent,Nairobi,Effluent,3.4,,5487,8.85,,381
+1315,20/2/2015,Borehole,Mandera,Floride/Chloride/NO2/NO3/Ammonia/TDS/Conductivity/PH,3.56,,686.34,1107,250,289
+1314,20/2/2015,Dam,Mandera,Floride/Chloride/NO2/NO3/Ammonia/TDS/Conductivity/PH,5.1,,520.8,840,25,288
+1316,20/2/2015,Borehole,Mandera,Floride/Chloride/NO2/NO3/Ammonia/TDS/Conductivity/PH,5.34,,494.14,797,2.5,290
+943,6/4/2013,Inlet (S1),Nairobi,"TSS,BOD,COD",5.75,,,369,,194
+1342,27/2/2015,Effluent,Kiambu,Effluent/Bacteriological Analysis,6.19,,790.5,996,2.5,300
+1098,4/7/2014,Effluent,Nairobi,Full Chemical Analysis & Bacteriological Analysis,6.3,,38.4,62,2.5,254
+934,5/30/2013,Site I effluent discharge,Nairobi,Effluent/Bacteriological Analysis,6.64,,27032,436,2.5,185
+1341,27/2/2015,Effluent,Kiambu,Effluent/Bacteriological Analysis,6.64,,1977.8,2440,15,299
+1103,4/8/2014,,Murang'a,Full Chemical Analysis & Bacteriological Analysis,6.7,,44.6,72,2.5,255
+125,24/4/16,,Garissa,Full Chemical Analysis/Bacteriological Analysis,6.7,,434,700,65,446
+749,5/17/2012,Borehole,,Full Chemical Analysis,6.74,,477,296,2.5,52
+748,5/17/2012,Borehole,Siaya,Full Chemical Analysis,6.76,,,,,51
+940,6/3/2013,Effluent (raw),Nairobi,"COD,BOD,TSS,pH,Conductivity,TDS",6.77,,538.16,868,5,191
+747,5/17/2012,Borehole,Siaya,Full Chemical Analysis,6.8,,,,,50
+1104,4/4/2014,,Nairobi,Full Chemical Analysis & Bacteriological Analysis,6.8,,398.6,642,2.5,256
+745,5/14/2012,Borehole,Turkana,Full Chemical Analysis,6.83,,,,,48
+1097,4/3/2014,Effluent,Kiambu,Effluent,6.9,,1016.8,1640,20,253
+1320,25/2/2015,Borehole,Turkana,Full Chemical Analysis,6.9,,2343.6,3780,0,294
+29,17/2/16,Pond ,Kajiado,PH/T Hardness/Nitrate/Turbidity,6.9,,,,,403
+128,24/4/16,Tap,Garissa,Full Chemical Analysis/Bacteriological Analysis,6.9,,992,1600,25,449
+1095,4/3/2014,Effluent,Kiambu,Effluent,7,,731.6,1180,10,251
+1096,4/3/2014,Effluent,Kiambu,Effluent,7,,762.6,1230,12.5,252
+170,6/8/2016,Rain,Kitui,,7,,,,,467
+184,19/6/16,Borehole,Narok,,7,,7433.8,11990,0,478
+988,8/19/2013,Dam,Nairobi,"BOD5,PH,Nitrates,",7.05,,251.72,406,7.5,213
+11,22/1/16,Effluent,Kajiado,Effluent,7.1,,17298,27.9,20,388
+853,29/11/2012,Final Effluent,Nairobi,Effluent & Bacteriological Analysis,7.13,,562,,2.5,117
+1318,20/2/2015,Borehole,Mandera,Floride/Chloride/NO2/NO3/Ammonia/TDS/Conductivity/PH,7.13,,1025.48,1654,35,292
+941,6/3/2013,Final Effluent,Nairobi,"COD,BOD,TSS,pH,Conductivity,TDS",7.14,,,672,40,192
+1311,19/2/2015,Influent/Effluent/Primary Clarifier,Nairobi,,7.14,,,,,287
+939,5/31/2013,Final Effluent,Nairobi,Effluent/Bacteriological Analysis,7.2,,445.8,719,5,190
+989,8/19/2013,Dam,Nairobi,"Ammonia,Conductivity",7.23,,183.52,296,5,214
+30,17/2/16,Pond ,Kajiado,PH/T Hardness/Nitrate/Turbidity,7.3,,,,,404
+942,6/4/2013,Borehole (raw),Machakos,Full Chemical Analysis,7.33,,,248,2.5,193
+935,5/30/2013,Site 2 Effluent discharge point,Nairobi,Effluent/Bacteriological Analysis,7.4,,610.7,975,5,186
+1025,1/14/2014,Shallow well,Kiambu,Full Chemical Analysis & Bacteriological Analysis,7.4,,353.4,570,2.5,226
+27,17/2/16,Pond ,Kajiado,PH/T Hardness/Nitrate/Turbidity,7.4,,,,,401
+1340,27/2/2015,Effluent,Kiambu,Effluent/Bacteriological Analysis,7.5,,2994.6,3710,15,298
+28,17/2/16,Pond ,Kajiado,PH/T Hardness/Nitrate/Turbidity,7.5,,,,,402
+92,4/4/2016,Borehole,Murang'a,Full Chemical Analysis,7.5,,527,850,0,437
+750,5/17/2012,Borehole,Nairobi,Full Chemical Analysis,7.58,,855,530,2.5,53
+949,6/7/2013,Borehole,Nairobi,Full Chemical Analysis,7.59,,,75,NIL,195
+672,12/20/2011,Effluent,Machakos,Effluent,7.6,,,,,0
+699,2/14/2012,,Embu,Full Chemical Analysis,7.6,,1050,,16,13
+1309,13/2/2015,Domestic,Nairobi,Full Chemical Analysis & Bacteriological Analysis,7.6,,,,,285
+2,14/1/16,Borehole,Nairobi,PH/TDS,7.6,,548.7,885.6,,382
+31,17/2/16,Borehole,Kajiado,PH/T Hardness/Nitrate/Turbidity,7.6,,,,,405
+91,4/3/2016,Borehole,Nyamira,Full Chemical Analysis,7.6,,1376.4,2220,0,436
+126,24/4/16,River,Garissa,Full Chemical Analysis/Bacteriological Analysis,7.6,,713,1150,400,447
+185,26/6/16,,Nairobi,,7.6,,48484,78200,5,479
+752,5/21/2012,Borehole,Kitui,Full Chemical Analysis,7.67,,1696,1051.52,,55
+1317,20/2/2015,Borehole,Mandera,Floride/Chloride/NO2/NO3/Ammonia/TDS/Conductivity/PH,7.67,,0.62,6940,2.5,291
+33,19/2/16,Borehole,Kiambu,Full Chemical Analysis,7.7,,663.4,1070,55,407
+684,1/25/2012,Borehole ,Nairobi,PH/Nitirites/Fluoride/Iron/Manganese,7.78,,433,3,,1
+127,24/4/16,Well,Garissa,Full Chemical Analysis/Bacteriological Analysis,7.8,,1376.4,2220,0,448
+863,2/12/2012,Shallow Well/Borehole,Siaya,Full Chemical Analysis & Bacteriological Analysis,7.86,,1291,800.42,5,120
+714,3/14/2012,Raw Effluent,Machakos,BOD & COD,7.9,,15340,9511,,26
+936,5/30/2013,Site 3 juja farm,Nairobi,Effluent/Bacteriological Analysis,7.9,,208,336,2.5,187
+758,5/21/2012,Final Effluent,Machakos,Effluent,7.93,,24440,15152.8,,57
+183,17/6/16,Borehole,Turkana,,8,,3019.4,4870,0,477
+733,4/18/2012,Borehole,Kajiado,Full Chemical Analysis,8.01,,1163,,3,40
+787,12/7/2012,Final Effluent,Machakos,Effluent,8.04,,18700,11594,7.5,78
+90,4/2/2016,Borehole,Sondu,Full Chemical Analysis,8.1,,3459.6,5580,0,435
+715,3/14/2012,Final Effluent,Machakos,BOD & COD,8.12,,99,61.4,75,27
+794,25/7/2012,Final Effluent,Machakos,Effluent,8.157,,11040,6844,50,85
+1129,6/11/2014,Final effluent,Machakos,Effluent,8.2,,26660,43000,14,263
+697,2/14/2012,Borehole,Embu,Full Chemical Analysis,8.7,,,,,11
+1310,13/2/2015,Domestic,Nairobi,Full Chemical Analysis & Bacteriological Analysis,8.7,,,,,286
+14,2/2/2016,River,Narok,Turbidity,8.7,,,,,391
+698,2/14/2012,,Embu,Full Chemical Analysis,8.9,,114,,3,12
+757,5/21/2012,Effluent,Machakos,Effluent,9.9,,15540,9634.8,,56
+685,1/11/2012,Effluent,Machakos,,,,21300,15,,2
+686,1/11/2012,Effluent,Machakos,Effluent,,,18840,125,,3
+773,15/6/2012,Raw Effluent,Machakos,Effluent,,,10970,702.08,,68
+774,15/6/2012,Final Effluent,Machakos,Effluent,,,16540,1058.56,,69
+821A,6/9/2012,Effluent,Machakos,Effluent,,,56400,34968,75,93
+975,7/9/2013,Effluent,Machakos,Effluent,,,,452,,209
+1079,3/18/2014,Borehole ,Machakos,Bacteriological Analysis,,,,,,246
+1381,31/3/2015,Dam,Kajiado,Effluent/Bacteriological Analysis,,,,1440,230,315
+1382,31/3/2015,Dam,Kajiado,Effluent/Bacteriological Analysis,,,,3340,250,316
+1383,31/3/2015,Dam,Kajiado,Effluent/Bacteriological Analysis,,,,2000,90,317
+1411,7/5/2015,Dam,Makueni,Fluoride/NO3/TDS/Mn/Ca2+/Mg/Turbidity,,,54.746,88.3,,329
+1412,7/5/2015,Dam,Makueni,Fluoride/NO3/TDS/Mn/Ca2+/Mg/Turbidity/Bacteriological Analysis,,,205.84,332,,330
+1413,7/5/2015,Shallow well,Makueni,Fluoride/NO3/TDS/Mn/Ca2+/Mg/Turbidity/Bacteriological Analysis,,,871.72,1406,,331
+1414,7/5/2015,Borehole,Makueni,Fluoride/NO3/TDS/Mn/Ca2+/Mg/Turbidity/Bacteriological Analysis,,,1618.2,2610,,332
+1415,7/5/2015,Borehole,Makueni,Fluoride/NO3/TDS/Mn/Ca2+/Mg/Turbidity/Bacteriological Analysis,,,1060.2,1710,,333
+1416,7/5/2015,Earth dam,Makueni,Fluoride/NO3/TDS/Mn/Ca2+/Mg/Turbidity/Bacteriological Analysis,,,53.94,87,,334
+1419,7/5/2015,Shallow well,Kitui,Bacteriological Analysis,,,928.76,1498,,335
+1420,7/5/2015,Earth Pan,Kitui,Bacteriological Analysis,,,45.26,73,,336
+1421,7/5/2015,Borehole,Kitui,Bacteriological Analysis,,,797.94,1287,,337
+1422,7/5/2015,Earth pan,Kitui,Bacteriological Analysis,,,328.6,530,,338
+1423,7/5/2015,Borehole,Machakos,Bacteriological Analysis,,,1224.5,1975,,339
+1424,7/5/2015,Borehole,Machakos,Bacteriological Analysis,,,576.6,930,,340
+1425,7/5/2015,Surface water,Machakos,Bacteriological Analysis,,,39.06,63,,341
+1437,21/5/2015,Effluent,Nairobi,Effluent (Inffluent),,,14260,23000,600,352
+129,26/4/16,,,,,,2108,3400,7.5,450
+186,29/6/16,Shallow well,Wajir,Full Chemical Analysis,,,9560.4,15420,0,480
+188,23/6/16,Borehole,Kajiado,,,,7530,12550,2.5,481
+192,7/4/2016,Borehole,Kiambu,Full Chemical Analysis & Bacteriological Analysis,,,375.1,605,0,483
+193,29/6/16,Borehole,Kitui,Full Chemical Analysis,,,7892.6,12730,2.5,484
