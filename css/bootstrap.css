@@ -3997,6 +3997,12 @@ tbody.collapse.show {
 .card-body {
   flex: 1 1 auto;
   padding: 1.25rem;
+  cursor: pointer;
+  /* cust */
+  display: block;
+  height: auto;
+  position: relative;
+  width: auto;
 }
 
 .card-title {
