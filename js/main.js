@@ -1,3 +1,18 @@
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+
+$('#exampleModal').on('show.bs.modal', function (event) {
+  var button = $(event.relatedTarget)
+  var recipient = button.data('title')
+  var recipient2 = button.data('whatever')
+  var recipient3 = button.data('src')
+  var modal = $(this)
+  modal.find('.modal-title').text(recipient)
+  modal.find('.modal-body img').attr('src', recipient3)
+  modal.find('.modal-body label').text(recipient2)
+})
 
 $(document).ready(function(){
 	"use strict";
@@ -353,11 +368,8 @@ $(document).ready(function(){
             $('#mc_embed_signup').find('form').ajaxChimp();
         });      
 
-
-
-
-
-
-
-
  });
+
+
+
+
