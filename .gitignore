@@ -1,2 +1,6 @@
 # analysis check points
 ./analysis/notebooks/.ipynb_checkpoints
+
+# workspace
+.vscode/
+
