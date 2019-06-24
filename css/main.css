@@ -8,12 +8,12 @@
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #fab700;
+  background-color: #84CEEB;
   color: #fff;
 }
 
 ::selection {
-  background-color: #fab700;
+  background-color: #84CEEB;
   color: #fff;
 }
 
@@ -51,7 +51,7 @@
 body, html { overflow-x:hidden; }
 
 body {
-  color: #777777;
+  color: #2A1B3D;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -1956,12 +1956,12 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
-  background: #fff !important;
+ /* background: #2A1B3D ;*/
 }
 
 #header.header-scrolled {
   box-shadow: -21.213px 21.213px 30px 0px rgba(158, 158, 158, 0.3);
-  background: rgba(255, 255, 255, 0.9);
+  background: #2A1B3D;
   transition: all 0.5s;
 }
 
@@ -2016,12 +2016,13 @@ h1, h2, h3, h4, h5, h6 {
   top: 100%;
   left: 0;
   z-index: 99;
-  background: rgba(255, 255, 255, 0.9);
+  /*background: rgba(255, 255, 255, 0.9);*/
 }
 
 .nav-menu li {
   position: relative;
   white-space: nowrap;
+  
 }
 
 .nav-menu > li {
@@ -2036,11 +2037,13 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu ul ul {
   top: 0;
   left: 100%;
+
 }
 
 .nav-menu ul li {
   min-width: 180px;
   text-align: left;
+  
 }
 
 /* Nav Menu Arrows */
@@ -2071,7 +2074,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 8px 0px 8px;
   text-decoration: none;
   display: inline-block;
-  color: #222;
+  color: #fff;
   font-weight: 400;
   font-size: 12px;
   text-transform: uppercase;
@@ -2080,30 +2083,33 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu > li {
   margin-left: 10px;
+  color: #fff;
 }
 
 .nav-menu ul {
   margin: 22px 0 0 0;
   padding: 10px;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-  background: #fff;
+ 
 }
 
 .nav-menu ul li {
   transition: 0.3s;
+  color: #fff;
 }
 
 .nav-menu ul li a {
   padding: 10px;
-  color: #333;
+  color:  #2A1B3D;
   transition: 0.3s;
   display: block;
   font-size: 12px;
   text-transform: none;
+  
 }
 
 .nav-menu ul li:hover > a {
-  color: #fab700;
+  color:  #2A1B3D;
 }
 
 .nav-menu ul ul {
@@ -2152,7 +2158,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
-  background: rgba(0, 0, 0, 0.8);
+  background:  #2A1B3D;
   left: -260px;
   width: 260px;
   overflow-y: auto;
@@ -2197,7 +2203,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99;
   padding: 15px;
   cursor: pointer;
-  color: #fff;
+  color:  #2A1B3D;
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
@@ -2330,7 +2336,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/header-bg1.jpg) center;
+  /*background: url(../img/header-bg1.jpg) center;*/
+  background: #2A1B3D;
   background-size: cover;
 }
 
@@ -2352,10 +2359,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-content {
   text-align: center;
+  color: #84CEEB;
 }
 
 .banner-content h1 {
-  color: #fff;
+  color: #84CEEB;
   font-size: 48px;
   font-weight: 700;
   line-height: 1em;
@@ -2405,7 +2413,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .header-btn {
-  background-color: #fab700;
+  background-color: #5680E9;
   border-radius: 0;
   padding-left: 30px;
   padding-right: 30px;
@@ -2420,7 +2428,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .cat-area #hexagon:hover {
-  background: #EC008C;
+  background: #84CEEB;
 }
 
 .cat-area #hexagon:hover:after {
@@ -2453,23 +2461,56 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .cat-area .hb-facebook-inv:hover, .cat-area .hb-facebook-inv:hover::after, .cat-area .hb-facebook-inv:hover::before {
-  background-color: #fab700;
+  background-color: #84CEEB;
   border-color: #A7A7A7;
   color: #fff;
 }
-
+.sect1{
+  height: 500px;
+}
+.sect2 {
+  height: 1000px;
+}
+.sect3{
+  height: 700px;
+}
+.sect4{
+  height: 1050px;
+}
 .home-about-area {
   background: #f9f9ff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  /*float: left;*/
+}
+
+.home-about-area .home-about-left{
+  float: left;
+}
+.datachart {
+  float: right;
+  margin-right: 40px;
+}
+
+@media (min-width: 240px) and (max-width: 400px){
+  .datachart{
+    order:0;
+  }
 }
 
 .home-about-area .home-about-left h1 {
   margin-bottom: 30px;
+
 }
 
 .home-about-area .home-about-left h6 {
   color: #fab700;
   font-weight: 300;
-  margin-bottom: 10px;
+  
 }
 
 .home-about-area .home-about-left .sub {
@@ -2563,6 +2604,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-left: 20px;
 }
 
+
+
 .single-service h4 {
   padding: 20px 0;
   -webkit-transition: all 0.3s ease 0s;
@@ -2616,7 +2659,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .faq-area {
-  background: url(../img/fact.jpg) center;
+  background: #fff;
   background-size: cover;
 }
 
@@ -2655,13 +2698,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .circle {
-  border: 1px solid #fab700;
+  border: 1px solid #84CEEB;
   border-radius: 68px;
   display: inline-block;
 }
 
 .inner {
-  background-color: #fab700;
+  background-color: #84CEEB;
   border-radius: 50px;
   margin: 24px;
   height: 90px;
@@ -2835,7 +2878,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-area {
   padding-top: 100px;
-  background-color: #04091e;
+  background-color:  #2A1B3D;
 }
 
 .footer-area h6 {
@@ -2858,7 +2901,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-social a:hover i {
-  color: #fab700;
+  color: #84CEEB;
 }
 
 .footer-social i {
@@ -2916,14 +2959,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-footer-widget .click-btn {
-  background-color: #fab700;
+  background-color: #84CEEB;
   color: #fff;
   border-radius: 0;
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
   padding: 8px 12px;
   border: 0;
+  margin-top: 30px;
 }
+
+
 
 .single-footer-widget ::-moz-selection {
   /* Code for Firefox */
@@ -2985,7 +3031,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-text a, .footer-text i {
-  color: #fab700;
+  color: #84CEEB;
 }
 
 .whole-wrap {
@@ -3029,6 +3075,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: none;
   }
 }
+
 
 .generic-content h1 {
   font-weight: 600;
@@ -3096,6 +3143,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .aboutus-feedback {
   background: #fff;
 }
+
 
 .contact-page-area {
   background: #f9f9ff;
@@ -3679,7 +3727,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .projH{
   text-align: center;
+  /* margin-top: 150px;*/
 }
+
+
 .histogram {
  display: inline-block;
   padding: 30px;
@@ -3696,4 +3747,106 @@ body.mobile-nav-active #mobile-nav-toggle {
   float: none;
   border-radius: 8px;
   
+}
+
+#logopb{
+  padding: 10px;
+}
+
+/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+
+#limheight {
+    /*min-height: 300px;*/
+    -webkit-column-count: 3;
+       -moz-column-count: 3;
+            column-count: 3; /*3 is just placeholder -- can be anything*/
+    align-items: center;
+}
+#limheight li {
+    display: table;
+    padding-bottom: 20px; 
+    margin-right: auto;
+   margin-left: auto;
+}
+
+@media only screen and (max-device-width: 480px) {
+        #limheight {
+          
+        }
+
+         #limheight li{
+             
+             margin: 20px;
+          }
+    }
+
+.service-area{
+  margin-top: 100px;
+}
+.img-responsive{
+  align-items: center;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-control{
+  margin-top: 30px;
 }
