@@ -39,11 +39,16 @@
         crossorigin="anonymous">
 		</head>
 		<body>
-			  <header id="header" id="home">
+			  
+
+			<!-- start banner Area -->
+			<section class="banner-area relative " id="home">
+
+				<header id="header" id="home">
 			    <div class="container main-menu">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.html"><img src="img/logo3.png" alt="" title="" /></a>
+				        <a href="index.html"><img src="img/logo2b.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -64,8 +69,6 @@
 			    </div>
 			  </header><!-- #header -->
 
-			<!-- start banner Area -->
-			<section class="banner-area relative" id="home">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row fullscreen d-flex align-items-center justify-content-center">
@@ -79,7 +82,7 @@
 							<p class="text-white">
 								Adept at solving all your data needs.<br> From collection, analysis and representation. We help you make your data work for you.
 							</p>
-							<a href="#about" class="primary-btn header-btn text-uppercase">Get Started</a>
+							<a href="#about" class="primary-btn header-btn text-uppercase" style=" background:  #84CEEB;">Get Started</a>
 							</div>
 						</div>
 					</div>
@@ -88,11 +91,11 @@
 			<!-- End banner Area -->
 
 			<!-- Start home-about Area -->
-			<section class="home-about-area section-gap" id="about">
+			<section class="home-about-area section-gap sect1" id="about">
 				<div class="container">
-					<div class="row justify-content-center align-items-center">
+					<!-- <div class="row justify-content-center align-items-center"> -->
 						<div class="col-lg-8 col-md-12 home-about-left">
-
+							<!-- <div class="about-content"> -->
 							<h1>
 								Here at Hamasisha, <br>
 							</h1>
@@ -100,15 +103,20 @@
 							<p class="pb-20">
 								With a key interest in Mining, Business, Agriculture, Health and sanitation, we work round the clock to ensure that all your data needs are met. We ensure that we bring on board creativity and innovation to the table, turning your data into a gold mine for investments. Depending on your needs, we know what kind of help to offer, where and how.
 							</p>
-
+							<!-- </div> -->
+							
 						</div>
-					</div>
+						<div class="datachart">
+								<img src="img/dd1.png" width="310px" height="80%">
+							</div>
+						
+					<!-- </div> -->
 				</div>
 			</section>
 			<!-- End home-about Area -->
 
 			<!-- Start cat Area -->
-			<section class="cat-area section-gap" id="feature">
+			<section class="cat-area section-gap sect1" id="feature">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-4">
@@ -148,97 +156,63 @@
 
 
 			<!-- Start service Area -->
-			<section class="service-area section-gap" id="service">
+			<section class="service-area section-gap " id="service">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-12 pb-30 header-text text-center">
 							<h1 class="mb-10">Our Focus areas</h1>
-							<p>
+							<!-- <p>
 								Our main focus areas are:
-							</p>
+							</p> -->
 						</div>
 					</div>
-					<div class="row">
 
-						<div class="col-md-4 col-12">
-                        <div class="card event-card1">
-                            <img class="card-img-top" src="img/mine.jpeg" alt="Event one poster">
-                            <div class="card-body">
+<!-- Modal code -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="exampleModalLabel">New message</h4>
+        <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+          <!-- <span aria-hidden="true">&times;</span> -->
+        </button>
+      </div>
+      <div class="modal-body">
+      		<img class="img-responsive" style="margin:0 auto;" alt="" id="modal-img">
+            <label type="text" class="form-control" id="recipient-name"></label>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
 
-                                <h5 class="card-title">Mining Industry</h5>
-                                <p class="card-text">
-                                    <strong>The extractives industry holds a lot of data which when processed appropriately, goes a long way in ensuring that the industry grows.</strong>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+<!-- End Modal code -->
 
-                    <br>
+					
+					<ul id="limheight">
+						<li class="btn btn-primary" style=" background:  #84CEEB;" data-toggle="modal" data-target="#exampleModal" data-src="img/agric2.jpeg" data-whatever="The agricultural sector is key and data obtained from here goes a long way in ensuring proper decisions are made during investments." data-title="Agriculture">Agriculture
+					</li><br>
 
-                    <div class="col-md-4 col-12">
-                        <div class="card event-card1">
-                            <img class="card-img-top " src="img/agric2.jpeg" alt="Event one poster">
-                            <div class="card-body">
+						<li class="btn btn-primary" style=" background:  #84CEEB;" data-toggle="modal" data-target="#exampleModal" data-src="img/mine.jpeg"data-whatever="The extractives industry holds a lot of data which when processed appropriately, goes a long way in ensuring that the industry grows." data-title="	Mining Industry">Mining
+					</li><br>
 
-                                <h5 class="card-title">Agriculture</h5>
-                                <p class="card-text">
-                                    <strong>The agricultural sector is key and data obtained from here goes a long way in ensuring proper decisions are made during investments.</strong>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+						<li class="btn btn-primary" style=" background:  #84CEEB;" data-toggle="modal" data-target="#exampleModal" data-src="img/business.jpeg" data-whatever="The business sector is rapidly evolving, churning out new and varying data. Data processed here is key in helping businesses grow and earn profits." data-title="Business">Business
+					</li><br>
 
-                    <div class="col-md-4 col-12">
-                        <div class="card event-card1">
-                            <img class="card-img-top " src="img/busine.jpeg" alt="Event one poster">
-                            <div class="card-body">
+						<li class="btn btn-primary" style=" background:  #84CEEB;" data-toggle="modal" data-target="#exampleModal" data-src="img/health.jpeg"data-whatever="The health sector is key to our survival as a species. Data processed here goes a long way in understanding how the health sector works." data-title="	Health">Health
+					</li><br>
 
-                                <h5 class="card-title">Business</h5>
-                                <p class="card-text">
-                                    <strong>The business sector is rapidly evolving, churning out new and varying data. Data processed here is key in helping businesses grow and earn profits. </strong>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+						<li class="btn btn-primary" style=" background:  #84CEEB;" data-toggle="modal" data-target="#exampleModal" data-src="img/sani2.jpeg" data-whatever="Sanitation is a key agenda while looking at health sustainability. Data processed here goes a long way in understanding how we can improve our hygiene." data-title="Sanitation">Sanitation
+					</li><br>
 
-                     <div class="col-md-4 col-12">
-                        <div class="card event-card1">
-                            <img class="card-img-top " src="img/health.jpeg" alt="Event one poster">
-                            <div class="card-body">
+						<li class="btn btn-primary" style=" background:  #84CEEB;" data-toggle="modal" data-target="#exampleModal" data-src="img/water.jpeg" data-whatever="Water sources need to be protected from polution and misuse. Data generated from this sector helps in making key decisions." data-title="Water">Water
+					</li><br>
+					</ul>
 
-                                <h5 class="card-title">Health</h5>
-                                <p class="card-text">
-                                    <strong>The health sector is key to our survival as a species. Data processed here goes a long way in understanding how the health sector works.</strong>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-12">
-                        <div class="card event-card1">
-                            <img class="card-img-top " src="img/sanitation.jpeg" alt="Event one poster" height="170">
-                            <div class="card-body">
-
-                                <h5 class="card-title">Sanitation</h5>
-                                <p class="card-text">
-                                    <strong>Sanitation is a key agenda while looking at health sustainability. Data processed here goes a long way in understanding how we can improve our hygiene.</strong>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 col-12">
-                        <div class="card event-card1">
-                            <img class="card-img-top " src="img/water.jpeg" alt="Event one poster" height="170">
-                            <div class="card-body">
-
-                                <h5 class="card-title">Water</h5>
-                                <p class="card-text">
-                                    <strong>Water sources need to be protected from polution and misuse. Data generated from this sector helps in making key decisions.</strong>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+					
 
 					</div>
 				</div>
@@ -247,7 +221,7 @@
 
 
 			<!-- Start faq Area -->
-			<section class="faq-area section-gap relative">
+			<!-- <section class="faq-area section-gap relative sect1">
 				<div class="overlay overlay-bg"></div>
 				<div class="container">
 					<div class="row justify-content-center align-items-center">
@@ -297,19 +271,19 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
 			<!-- End faq Area -->
 
 
 			<!-- Start project Area -->
-			<section class="project-area section-gap" id="project">
+			<section class="project-area section-gap sect2" id="project">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-md-8 pb-30 header-text text-center">
 							<h1 class="mb-10">Finished Projects</h1>
-							<p>
+							<!-- <p>
 								Projects we've gotten our hands dirty with...
-							</p>
+							</p> -->
 						</div>
 					</div>
 				</div>
@@ -319,43 +293,65 @@
         <div class="container">
         <div class="row">
             <div class="col-md-4 col-12">
-                <div class="card project-card" style="width: 23rem;">
-                    <img alt="Card image cap" class="card-img-top" src="img/livestock.jpg">
-                    <div class="card-body">
-                        <h5 class="card-title">County Livestock Deaths: Histogram</h5>
-                        <p class="card-text">A histogram showing a summary of livestock deaths across the Kenyan counties. It shows the range of animals that have died in how many counties.</p>
-                        <a class="btn btn-primary float-right" href="projects/livestock.html">View project</a>
-                    </div>
+                <div class="card project-card" style="width: 23rem; background: #fff;">
+                    <!-- Content -->
+					  <div class=" text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+					    <div>
+					      <h5 class="pink-text"><i class="fas fa-chart-bar"></i> Histogram</h5>
+					      <h3 class="card-title pt-2"><strong>County Livestock Deaths</strong></h3>
+					      <p>A histogram showing a summary of livestock deaths across the Kenyan counties. It shows the range of animals that have died in how many counties.</p>
+					      <a class="btn btn-primary" style=" background:  #84CEEB;"><i class="fas fa-clone left" href="projects/livestock.html"></i> View project</a>
+					    </div>
+					  </div>
                 </div>
             </div>
+
+
+
             <div class="col-md-4 col-12">
-                <div class="card project-card" style="width: 23rem;">
-                    <img alt="Card image cap" class="card-img-top" src="img/livestock2.jpg">
-                    <div class="card-body">
-                        <h5 class="card-title">County Livestock Deaths: Bar Graph</h5>
-                        <p class="card-text">A bar graph showing the number of livestock deaths across the Kenyan counties. It shows how many animals have died per county across the country.</p>
-                        <a class="btn btn-primary float-right" href="projects/livestockbar.html">View project</a>
-                    </div>
+                <div class="card project-card" style="width: 23rem; background:#fff;">
+
+                    <!-- Content -->
+					  <div class=" text-center d-flex align-items-center  py-5 px-4">
+					    <div>
+					      <h5 class="pink-text"><i class="fas fa-chart-bar"></i> Bar Graph</h5>
+					      <h3 class="card-title pt-2"><strong>County Livestock Deaths</strong></h3>
+					      <p>A bar graph showing the number of livestock deaths across the Kenyan counties. It shows how many animals have died per county across the country.</p>
+					      <a class="btn btn-primary" style=" background:  #84CEEB;"><i class="fas fa-clone left" href="projects/livestockbar.html"></i> View project</a>
+					    </div>
+					  </div>
                 </div>
             </div>
+
             <div class="col-md-4 col-12">
-                <div class="card project-card" style="width: 23rem;">
-                    <img alt="Card image cap" class="card-img-top" src="img/water.jpeg">
-                    <div class="card-body">
-                        <h5 class="card-title">Water Alkalinity in Kenyan Counties</h5>
-                        <p class="card-text">A map of the 47 counties of Kenya showing how the alkaline levels of water vary across the counties. Some counties have missing data and the same is indicated on the map.</p>
-                        <a class="btn btn-primary float-right" href="projects/alkaline.html">View project</a>
-                    </div>
+                <div class="card project-card" style="width: 23rem; background: #fff;">
+                 
+                    <!-- Content -->
+					  <div class=" text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+					    <div>
+					      <h5 class="pink-text"><i class="fas fa-globe-africa"></i> Map</h5>
+					      <h3 class="card-title pt-2"><strong>County Water Alkalinity</strong></h3>
+					      <p>A map of the 47 counties of Kenya showing how the alkaline levels of water vary across the counties. Some counties have missing data and the same is indicated on the map.</p>
+					      <a class="btn btn-primary" style=" background:  #84CEEB;"><i class="fas fa-clone left" href="projects/alkaline.html"></i> View project</a>
+					    </div>
+					  </div>
+
                 </div>
             </div>
+
             <div class="col-md-4 col-12">
-                <div class="card project-card" style="width: 23rem;">
-                    <img alt="Card image cap" class="card-img-top" src="img/counties.png">
-                    <div class="card-body">
-                        <h5 class="card-title">Report Analysis in Kenyan Counties</h5>
-                        <p class="card-text">A comprehensive report focusing on various aspects of issues or factors present in the 47 counties in Kenya.Interact with various reports to see the interact outlay.</p>
-                        <a class="btn btn-primary float-right" href="projects/trial.html">View project</a>
-                    </div>
+                <div class="card project-card" style="width: 23rem; background: #fff;">
+                   
+                    <!-- Content -->
+					  <div class=" text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+					    <div>
+					      <h5 class="pink-text"><i class="fas fa-chart-pie"></i> Charts</h5>
+					      <h3 class="card-title pt-2"><strong>Report Analysis on Kenyan Counties</strong></h3>
+					      <p>A comprehensive report focusing on various aspects of issues or factors present in the 47 counties in Kenya.Interact with various reports to see the interact outlay.</p>
+					      <a class="btn btn-primary" style=" background:  #84CEEB;"><i class="fas fa-clone left" href="projects/trial.html"></i> View project</a>
+					    </div>
+					  </div>
+
                 </div>
             </div>
         </div>
@@ -369,7 +365,7 @@
 			<!-- End project Area -->
 
 			<!-- Start team Area -->
-			<section class=" section-gap" id="team">
+			<section class=" section-gap sect3" id="team">
 				<div class="container">
 					<div class="col-md-12 pb-30 header-text text-center">
 							<h1 class="mb-10">Meet the team</h1>
@@ -607,7 +603,7 @@
 
 
 			<!-- start footer Area -->
-			<footer class="footer-area section-gap" id="footer">
+			<footer class=" text-white footer-area section-gap" id="footer">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-5 col-md-6 col-sm-6">
@@ -618,18 +614,18 @@
 								</p>
 								<p class="footer-text">
 
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://www.hamasishaanalytics.co.ke" target="_blank">Hamasisha Analytics</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fas fa-heart heart-love" aria-hidden="true"></i> by <a href="https://www.hamasishaanalytics.co.ke" target="_blank" class="heart-love">Hamasisha Analytics</a>
 								</p>
 							</div>
 						</div>
 						<div class="col-lg-5  col-md-6 col-sm-6">
 							<div class="single-footer-widget">
 								<h6>Newsletter</h6>
-								<p>Stay update with our latest</p>
+								<p>Stay updated with our latest data publications and visualizations.</p>
 								<div class="" id="mc_embed_signup">
 									<form target="_blank" novalidate="true" action="#" method="get" class="form-inline">
 										<input class="form-control" name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '" required="" type="email">
-			                            	<button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
+			                            	<button class="click-btn btn btn-default"><i class="fas fa-arrow-right" aria-hidden="true"></i></button>
 			                            	<div style="position: absolute; left: -5000px;">
 												<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
 											</div>
@@ -644,10 +640,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								<h6>Follow Us</h6>
 								<p>Let us be social</p>
 								<div class="footer-social d-flex align-items-center">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="https://twitter.com/HamasishaA"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-dribbble"></i></a>
-									<a href="#"><i class="fa fa-behance"></i></a>
+									<a href="#"><i class="fab fa-facebook"></i></a>
+									<a href="https://twitter.com/HamasishaA"><i class="fab fa-twitter"></i></a>
+									<a href="#"><i class="fab fa-dribbble"></i></a>
+									<a href="#"><i class="fab fa-behance"></i></a>
 								</div>
 								<br>
 								<div class="footer-social d-flex align-items-center">
