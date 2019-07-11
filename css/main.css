@@ -3727,6 +3727,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: 8px;
 }
 
+/*
+mobile team styling*/
 @media (min-width: 240px) and (max-width: 350px){
   .card.hovercard .info {
   padding: 2px 4px 2px;
@@ -3770,6 +3772,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 }
 
+/*end mobile team styling*/
 
 /*header styling*/
 .main-title {
@@ -3803,17 +3806,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-/*@media (min-width: 240px) and (max-width: 400px){
-  .project-card{
-    width: 8rem;
-  }
-}
-
-@media (min-width: 450px) and (max-width: 900px){
-  .project-card{
-    width: 18rem;
-  }
-}*/
 .card{
   float: none;
   border-radius: 8px;
@@ -3927,6 +3919,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 30px;
 }
 
+/*about order mobile styling*/
 @media (min-width: 240px) and (max-width: 400px){
   .ml-pic{
     display: none;
@@ -3942,3 +3935,5 @@ body.mobile-nav-active #mobile-nav-toggle {
   align-items: center;
   min-height: 550px;
 }
+
+/*end about mobile styling*/
