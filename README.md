@@ -2,4 +2,4 @@
 Simple website for Hamasisha
 
 
-[Live demo](https://marvinkweyu.github.io/) 
+[Live demo](https://marvinkweyu.github.io/Hamasisha) 
