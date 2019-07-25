@@ -3795,11 +3795,26 @@ mobile team styling*/
 
 
 .histogram {
+  max-width: 100%;
  display: inline-block;
-  padding: 30px;
-  margin: 100px;
+  padding: 0.5px;
+  margin-top: 50px;
+  margin-left: 0.5px;
+  margin-right: 15px;
 }
 
+@media (min-width: 240px) and (max-width: 350px){
+.histogram {
+  max-width: 100%;
+  align-content: center;
+ display: inline-block;
+  padding: 0.5px;
+  margin-top: 50px;
+  margin-left: 0.1px;
+  margin-right: 0.1px;
+}
+
+}
 .project-card{
   /*width: 22rem;*/
   margin: 0 auto 20px;
