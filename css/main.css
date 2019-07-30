@@ -3793,6 +3793,12 @@ mobile team styling*/
   /* margin-top: 150px;*/
 }
 
+@media (min-width: 750px) and (max-width: 1500px){
+.projH{
+  width: 50%;
+}
+}
+
 
 .histogram {
   max-width: 100%;
